@@ -1,4 +1,6 @@
-[e_do_kiriko](https://twitter.com/e_do_kiriko) 
+## ホーム
+
+[e_do_kiriko](https://twitter.com/e_do_kiriko) です。
 
 ## バックナンバー
 
