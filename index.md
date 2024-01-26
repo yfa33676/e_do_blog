@@ -1,6 +1,6 @@
 ## ホーム
 
-はじめまして！ [**e_do_kiriko**](https://twitter.com/e_do_kiriko) です。普段は **X** で、
+はじめまして！ [e_do_kiriko](https://twitter.com/e_do_kiriko) です。普段はXで、
 
 * #MSMW やばぁ
 * エムミュ神回やん…
