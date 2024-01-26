@@ -1,6 +1,12 @@
 ## ホーム
 
-[e_do_kiriko](https://twitter.com/e_do_kiriko) です。
+はじめまして！ **e_do_kiriko** です。普段は [X](https://twitter.com/e_do_kiriko) で、たとえば、
+
+* 今日の #MSMW やばかった！
+* めちゃかわいいインスタきた！
+* 今週の M-line Music 神回やん…
+
+とか、いろいろ書いております。もう、いよいよブログも書いてみたいな…と思い、はじめてみました👍
 
 ## バックナンバー
 
