@@ -1,5 +1,4 @@
 # _config.yml
 
 title: e_do_blog
-description: e_do_blog
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
