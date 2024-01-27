@@ -2,14 +2,14 @@ img.logo {
     max-width: 50%;
 }
 
-a.x-twitter {
+i.fa-x-twitter {
     color: #000000;
 }
 
-a.github {
+i.fa-github {
     color: #000000;
 }
 
-a.youtube {
+i.fa-youtube {
     color: #FF0000;
 }
