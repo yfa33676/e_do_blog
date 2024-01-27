@@ -1,6 +1,6 @@
 ## ホーム
 
-[e_do_kiriko](https://twitter.com/e_do_kiriko) です。普段はXで、
+**e_do_kiriko** です。普段は[<i class="fa-lg fa-brands fa-square-x-twitter"></i>](https://twitter.com/e_do_kiriko)で、
 
 * MSMW やばぁ
 * エムミュ神回やん…
