@@ -2,14 +2,18 @@ img.logo {
     max-width: 50%;
 }
 
-i.fa-square-x-twitter {
+.fa-square-x-twitter {
     color: #000000;
 }
 
-i.fa-github {
+.fa-github {
     color: #000000;
 }
 
-i.fa-youtube {
+.fa-youtube {
     color: #FF0000;
+}
+
+.fa-amazon {
+    color: #000000;
 }
