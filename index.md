@@ -1,8 +1,8 @@
 ## ホーム
 
-はじめまして！ [e_do_kiriko](https://twitter.com/e_do_kiriko) です。普段はXで、
+[e_do_kiriko](https://twitter.com/e_do_kiriko) です。普段はXで、
 
-* #MSMW やばぁ
+* MSMW やばぁ
 * エムミュ神回やん…
 * Fooooooooooooooooo!!!!
 
@@ -10,4 +10,4 @@
 
 ## バックナンバー
 
-* [2024年1月27日（土） 初回！](docs/20240127.md)
+* [2024年1月27日 初回！](docs/20240127.md)
