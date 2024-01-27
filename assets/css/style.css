@@ -2,4 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-@import url(custom.css);
