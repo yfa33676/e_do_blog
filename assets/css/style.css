@@ -1,8 +1,5 @@
 ---
 ---
 
+img.logo {max-width: 50%;}
 @import "{{ site.theme }}";
-
-img.logo{
-    max-width: 50%;
-}
