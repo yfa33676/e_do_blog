@@ -2,6 +2,11 @@
 
 title: e_do_blog
 logo: /assets/img/icon.png
-description:  
+description: e_do_blog
+image: /assets/img/card.png
 google_analytics: G-2KSH41991E
 theme: jekyll-theme-minimal
+twitter:
+  username: e_do_kiriko
+  card: summary
+locale : JA
