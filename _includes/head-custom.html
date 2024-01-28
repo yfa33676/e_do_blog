@@ -1,10 +1,22 @@
-<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
+<!-- Google Analytics -->
 {% include head-custom-google-analytics.html %}
 
-<!-- You can set your favicon here -->
+<!-- favicon -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+
+<!-- stylesheet -->
 <link rel="stylesheet" href="{{ "/assets/css/custom.css?v=" | append: site.github.build_revision | relative_url }}">
+
+<!-- font -->
 <link href="https://use.fontawesome.com/releases/v6.5.1/css/all.css" rel="stylesheet">
-<!-- end custom head snippets -->
+
+<!-- OGP -->
+<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}" />
+{% else %}
+<meta property="og:description" content="{{ site.description | default: site.github.project_tagline }}" />
+{% endif %}
