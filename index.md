@@ -27,7 +27,6 @@
   * 小関舞はかっこいい
   * 小関舞は楽しい
 
-
 * [2024年2月2日 M-line Music #128 感想](docs/20240202.md)
   * つばきファクトリー「表面張力～Surface Tension～」 （夏焼雅・宮崎由加・小関舞・小片リサ）
   * Buono!「-Winter Story-」（小片リサ・Bitter & Sweet）
