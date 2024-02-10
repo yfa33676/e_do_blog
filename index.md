@@ -10,10 +10,13 @@
 
 ## 特集
 
-* [YouTubeチャプター検索](https://yfa33676.github.io/youtube)
 * [YouTubeチャプターリンク集 M-line Special 2021～Make a Wish!～](docs/MSMW2021.md)
 * [YouTubeチャプターリンク集 M-line Special 2022～My Wish!～](docs/MSMW2022.md)
 * [YouTubeチャプターリンク集 M-line Special 2023～Magical Wish～](docs/MSMW2023.md)
+
+## リンク
+
+* [YouTubeチャプター検索](https://yfa33676.github.io/youtube)
 
 ## バックナンバー
 
