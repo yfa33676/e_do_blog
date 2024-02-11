@@ -27,7 +27,6 @@
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「青空がいつまでも続くような未来であれ！」](https://www.youtube.com/watch?v=RSDQC3umiW8&t=2m54s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「いのちの歌」](https://www.youtube.com/watch?v=RSDQC3umiW8&t=18m14s){:target="_blank"}
 
-
 ### 小片リサ「bon voyage!」in OSAKA <small>2022年6月公演 松下IMPホール（大阪）</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・Bitter & Sweet）](https://www.youtube.com/watch?v=sVeS_aWt8_k&t=23m29s){:target="_blank"}
   * 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「青空がいつまでも続くような未来であれ！」
@@ -44,7 +43,7 @@
   * 小片リサ・河西結心「低音火傷」
   * 小片リサ・八木栞「ふわり、恋時計」
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet・河西結心・八木栞「ENDLESS LOVE〜I Love You More〜」](https://www.youtube.com/watch?v=_vsdTWua8h0&t=3m15s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i小片リサ・河西結心・八木栞「ダンスコーナー」「低温火傷」「ふわり、恋時計」<small>※ ダイジェスト</small>](https://www.youtube.com/watch?v=YxOX5Q1NkWE&t=11m23s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・河西結心・八木栞「ダンスコーナー」「低温火傷」「ふわり、恋時計」<small>※ ダイジェスト</small>](https://www.youtube.com/watch?v=YxOX5Q1NkWE&t=11m23s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・河西結心・八木栞「糸島Distance」](https://www.youtube.com/watch?v=32LEGgSAhHM&t=11m7s){:target="_blank"}
   
 
