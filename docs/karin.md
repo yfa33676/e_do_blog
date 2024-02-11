@@ -28,7 +28,7 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 
 ### STAGE VANGUARD「悪嬢転生」
 * [<i class="fa-lg fa-brands fa-youtube"></i> コメント（宮本佳林・小関舞）](https://www.youtube.com/watch?v=q5tRVzxanOI&t=25m44s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（宮本佳林・小関舞 千秋楽コメント）](https://www.youtube.com/watch?v=V7xfzsXp9Ls&t=6m50s)
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（宮本佳林・小関舞 千秋楽コメント）](https://www.youtube.com/watch?v=V7xfzsXp9Ls&t=6m50s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> メイキング映像（宮本佳林・小関舞・松原ユリヤ・橋田歩果）](https://www.youtube.com/watch?v=lW-3ARXEm18&t=3m17s){:target="_blank"}
 
 ### 宮本佳林 LIVE 2023〜ヒトリトイロ〜
@@ -73,7 +73,9 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
   * アメジスト
   * ダリア
   * アマリリス
+  * 悪嬢転生
   * ヒトリトイロ
+  * 悪嬢転生 リニューアル公演
   * Hello! Brand new me
 * [小片リサ LIVE映像](./risa.md)
   * bon voyage!

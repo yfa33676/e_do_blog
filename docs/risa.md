@@ -122,7 +122,9 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
   * アメジスト
   * ダリア
   * アマリリス
+  * 悪嬢転生
   * ヒトリトイロ
+  * 悪嬢転生 リニューアル公演
   * Hello! Brand new me
 * [小片リサ LIVE映像](#title) 👈
   * bon voyage!
