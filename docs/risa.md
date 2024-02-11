@@ -1,5 +1,11 @@
 ## 小片リサ LIVE映像 
 
+* [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
+* [M-line Music LIVE映像 M-line Special 2022～My Wish!～](./MSMW2022.md)
+* [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](./MSMW2023.md)
+* [宮本佳林 LIVE映像](./karin.md)
+* 小片リサ LIVE映像
+
 ### 小片リサ「bon voyage!」in COTTON CLUB <small>2022年1月公演</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet・米村姫良々・窪田七海「フラリ銀座」](https://www.youtube.com/watch?v=jB-G_ADFxhU&t=2m24s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「低温火傷」](https://www.youtube.com/watch?v=UiyIyCzFlq8&t=22m46s){:target="_blank"}
