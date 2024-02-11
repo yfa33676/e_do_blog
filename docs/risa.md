@@ -74,15 +74,31 @@
   * 河西結心・八木栞「ナインティーンの蜃気楼」
   * 小片リサ・河西結心・八木栞「雨音はショパンの調べ」
   * 小片リサ・河西結心・八木栞「ハナモヨウ」
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet「夢の中」](https://www.youtube.com/watch?v=VdVyiDR3_QE&t=10m17s){:target="_blank"}
 
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
+### RISA OGATA CONCERT 2023「Coeur à coeur」<small>2023年8月公演 第一ホテル両国「清澄」(東京)</small>
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Btter & Sweet・工藤由愛・石山咲良「コイセヨ！」](https://www.youtube.com/watch?v=EPI9YjiqgNA&t=13m42s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「真夏の光線」 ](https://www.youtube.com/watch?v=ZTNVRAtyCpA&t=12m16s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・工藤由愛・石山咲良「恋のヌケガラ」](https://www.youtube.com/watch?v=dO1E74lkemM&t=13m14s){:target="_blank"}
+
+### RISA OGATA CONCERT「éclatant」<small>2023年10月公演 COTTON CLUB (東京)</small>
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・工藤由愛・石山咲良）](https://www.youtube.com/watch?v=scacaAEA0WA&t=10m35s){:target="_blank"}
+  *  小片リサBitter & Sweet・・工藤由愛・石山咲良「ヒロインになろうか！」
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・工藤由愛・石山咲良「映画の趣味が合うだけ」](https://www.youtube.com/watch?v=g8dcb9PIMAw&t=4m54s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「Happyを止めないで」](https://www.youtube.com/watch?v=nRdTqAFHhCk&t=12m1s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「ちいさな世界」](https://www.youtube.com/watch?v=scacaAEA0WA&t=3m25s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・工藤由愛・石山咲良「次の角を曲がれ」](https://www.youtube.com/watch?v=faeEy5maNVw&t=26m3s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・工藤由愛・石山咲良「ヒロインになろうか！」](https://www.youtube.com/watch?v=iPOAItAdSNo&t=9m23s){:target="_blank"}
+
+### RISA OGATA CONCERT「éclatant」<small>2023年12月公演 第一ホテル両国「清澄」(東京)</small>
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記 （小片リサ・Bitter & Sweet）](https://www.youtube.com/watch?v=VdqWrgrrdYc&t=17m7s){:target="_blank"}
+  * 小片リサ・Bitter & Sweet「ふりさけみれば…」
+  * 小片リサ・Bitter & Sweet「次の角を曲がれ」
+  * 小片リサ・Bitter & Sweet「- Winter Story -」
+* [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「Bitter & Sweet」](https://www.youtube.com/watch?v=VdqWrgrrdYc&t=9m43s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「じらして愛して」](https://www.youtube.com/watch?v=W9kGuqorezA&t=9m0s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「-Winter Story-」](https://www.youtube.com/watch?v=MeUJgeeFOOw&t=11m21s){:target="_blank"}
+
 * [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
