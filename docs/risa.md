@@ -1,4 +1,8 @@
-## 小片リサ LIVE映像 
+---
+title : 小片リサ LIVE映像
+description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
+---
+## 小片リサ LIVE映像 {#title}
 
 ### 小片リサ「bon voyage!」in COTTON CLUB <small>2022年1月公演</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet・米村姫良々・窪田七海「フラリ銀座」](https://www.youtube.com/watch?v=jB-G_ADFxhU&t=2m24s){:target="_blank"}
@@ -120,7 +124,7 @@
   * アマリリス
   * ヒトリトイロ
   * Hello! Brand new me
-* 小片リサ LIVE映像
+* [小片リサ LIVE映像](#title) 👈
   * bon voyage!
   * Coeur à Coeur
   * \- Mi RooM \-

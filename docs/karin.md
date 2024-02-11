@@ -1,5 +1,6 @@
 ---
 title : 宮本佳林 LIVE映像
+description : アマリリス ダリア アメジスト ヒトリトイロ Hello! Brand new me
 ---
 ## 宮本佳林 LIVE映像 {#title}
 
