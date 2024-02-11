@@ -32,7 +32,7 @@
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・Bitter & Sweet）](https://www.youtube.com/watch?v=sVeS_aWt8_k&t=23m29s){:target="_blank"}
   * 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「青空がいつまでも続くような未来であれ！」
 
-### 小片リサ「bon voyage!」in COTTON CLUB アンコール公演<small></small>
+### 小片リサ「bon voyage!」in COTTON CLUB <small>2022年8月公演</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記 （小片リサ・川名凜・為永幸音）](https://www.youtube.com/watch?v=V9xqf1y4UgI&t=16m59s){:target="_blank"}
   * 川名凜・為永幸音「イジワルしないで抱きしめてよ」
   * 小片リサ・為永幸音／小片リサ・川名凜「愛が止まらない～Turn it Into Love～」
