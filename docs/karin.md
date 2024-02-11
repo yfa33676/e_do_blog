@@ -32,5 +32,26 @@
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「バンビーナ・バンビーノ」](https://www.youtube.com/watch?v=6njGwroq86Q&t=3m38s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「Beautiful Song」](https://www.youtube.com/watch?v=doV8B5rZrLA&t=11m40s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ダイジェスト映像<small>（2023年12月16日 広島LIVE VANQUISH）</small>](https://www.youtube.com/watch?v=dvdtHzcPWtk){:target="_blank"}
+  * 「バンビーナ・バンビーノ」
+  * 「カリーナノッテ」「最高視感度」「兎tocome」「リバース」「カリーナノッテ pralis mix」（コピンク メドレー）
+  * 「Beautiful Song」
+  * 「氷点下」
+  * 「天まで登れ」
+  * 「少女K」
+  * 「Lonely Bus」
+  * 「イイオンナごっこ」
+  * 「ズキュンLOVE」「ミニモニ。ジャンケンぴょん！」「ガタメキラ」「有頂天LOVE」（研修生メドレー）
+  * 「ロマンスの途中」「私が言う前に抱きしめなきゃね」「大人の事情」「愛のダイビング」「銀色のテレパシー」「プラトニック・プラネット」「Wonderful World」（Juice=Juiceメドレー）
+  * 「どうして僕らにはやる気がないのか」
+  * 「Happy Days」
+  * 「自分ファースト」
+  * 「なんてったって I Love You」
+  * 「私がオバさんになっても」
+  * 「パラレルハート」
+  * 「ソリスト・ダンス」
+  * 「落ちこぼれのガラクタだって」
+  
 
 
+  
+  
