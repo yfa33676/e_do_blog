@@ -14,8 +14,16 @@
 * [M-line Music LIVE映像 M-line Special 2022～My Wish～](docs/MSMW2022.md)
 * [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](docs/MSMW2023.md)
 * [宮本佳林 LIVE映像](docs/karin.md)
+  * アメジスト
+  * ダリア
+  * アマリリス
+  * ヒトリトイロ
+  * Hello! Brand new me
 * [小片リサ LIVE映像](docs/risa.md)
-
+  * bon voyage!
+  * Coeur à Coeur
+  * \- Mi RooM \-
+  * éclatant
 ## リンク
 
 * [YouTubeチャプター検索](https://yfa33676.github.io/youtube)
