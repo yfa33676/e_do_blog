@@ -40,7 +40,7 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 ### STAGE VANGUARD「悪嬢転生」リニューアル公演
 * [<i class="fa-lg fa-brands fa-youtube"></i> 稽古風景（宮本佳林・小関舞・村越彩菜・橋田歩果）](https://www.youtube.com/watch?v=mSAFP1loLnI&t=9m57s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（宮本佳林・小関舞）](https://www.youtube.com/watch?v=aqgdX44Q6ao&t=25m16s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> インタビュー（小関舞）](https://www.youtube.com/watch?v=aqgdX44Q6ao&t=25m16s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> インタビュー（宮本佳林・小関舞）](https://www.youtube.com/watch?v=aqgdX44Q6ao&t=25m16s){:target="_blank"}
 
 ### 宮本佳林 LIVE 2023秋～Hello! Brand new me～
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「バンビーナ・バンビーノ」](https://www.youtube.com/watch?v=6njGwroq86Q&t=3m38s){:target="_blank"}
