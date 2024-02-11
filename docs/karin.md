@@ -26,11 +26,21 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「若者ブランド」](https://www.youtube.com/watch?v=q5tRVzxanOI&t=16m45s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「イイオンナごっこ」<small>※ コメンタリー</small>](https://www.youtube.com/watch?v=40HPuMPjB1I&t=21m55s){:target="_blank"}
 
+### STAGE VANGUARD「悪嬢転生」
+* [<i class="fa-lg fa-brands fa-youtube"></i> コメント（宮本佳林・小関舞）](https://www.youtube.com/watch?v=q5tRVzxanOI&t=25m44s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（宮本佳林・小関舞 千秋楽コメント）](https://www.youtube.com/watch?v=V7xfzsXp9Ls&t=6m50s)
+* [<i class="fa-lg fa-brands fa-youtube"></i> メイキング映像（宮本佳林・小関舞・松原ユリヤ・橋田歩果）](https://www.youtube.com/watch?v=lW-3ARXEm18&t=3m17s){:target="_blank"}
+
 ### 宮本佳林 LIVE 2023〜ヒトリトイロ〜
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「Happy Days」](https://www.youtube.com/watch?v=NgAsR--Sq1A&t=10m25s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「自分ファースト」](https://www.youtube.com/watch?v=dZpljq8vxSQ&t=14m38s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「夜明けまでのララバイ」 ](https://www.youtube.com/watch?v=HrxY93v3DPI&t=11m22s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> M-line Volg リハーサル・本番](https://www.youtube.com/watch?v=RtYVfY9ATSw&t=30m48s){:target="_blank"}
+
+### STAGE VANGUARD「悪嬢転生」リニューアル公演
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稽古風景（宮本佳林・小関舞・村越彩菜・橋田歩果）](https://www.youtube.com/watch?v=mSAFP1loLnI&t=9m57s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（宮本佳林・小関舞）](https://www.youtube.com/watch?v=aqgdX44Q6ao&t=25m16s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> インタビュー（小関舞）](https://www.youtube.com/watch?v=aqgdX44Q6ao&t=25m16s){:target="_blank"}
 
 ### 宮本佳林 LIVE 2023秋～Hello! Brand new me～
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「バンビーナ・バンビーノ」](https://www.youtube.com/watch?v=6njGwroq86Q&t=3m38s){:target="_blank"}
