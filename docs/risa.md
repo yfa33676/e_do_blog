@@ -23,11 +23,14 @@
 
 ### 小片リサ「bon voyage!」in COTTON CLUB <small>2022年5月公演②</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・平井美葉・里吉うたの）](https://www.youtube.com/watch?v=N4g2iWwMBY0&t=23m20s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・Bitter & Sweet）](https://www.youtube.com/watch?v=sVeS_aWt8_k&t=23m29s){:target="_blank"}
-  * 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「青空がいつまでも続くような未来であれ！」<small>（2022年6月12日 松下IMPホール（大阪））</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「宇宙でLa Ta Ta」](https://www.youtube.com/watch?v=q5tRVzxanOI&t=2m57s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「青空がいつまでも続くような未来であれ！」](https://www.youtube.com/watch?v=RSDQC3umiW8&t=2m54s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「いのちの歌」](https://www.youtube.com/watch?v=RSDQC3umiW8&t=18m14s){:target="_blank"}
+
+
+### 小片リサ「bon voyage!」in OSAKA <small>2022年6月公演 松下IMPホール（大阪）</small>
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・Bitter & Sweet）](https://www.youtube.com/watch?v=sVeS_aWt8_k&t=23m29s){:target="_blank"}
+  * 小片リサ・Bitter & Sweet・平井美葉・里吉うたの「青空がいつまでも続くような未来であれ！」
 
 ### 小片リサ「bon voyage!」in COTTON CLUB アンコール公演<small></small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記 （小片リサ・川名凜・為永幸音）](https://www.youtube.com/watch?v=V9xqf1y4UgI&t=16m59s){:target="_blank"}
