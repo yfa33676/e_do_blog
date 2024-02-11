@@ -76,6 +76,18 @@
   * 小片リサ・河西結心・八木栞「ハナモヨウ」
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet「夢の中」](https://www.youtube.com/watch?v=VdVyiDR3_QE&t=10m17s){:target="_blank"}
 
+### LIVE 2023 - Mi RooM - <small>2023年6月公演 COTTON CLUB (東京)</small>
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（稲場愛香・小関舞・小片リサ）](https://www.youtube.com/watch?v=VdVyiDR3_QE&t=18m3s){:target="_blank"}
+  * 稲場愛香・小関舞・小片リサ「Midnight Temptation」
+  * 稲場愛香・小関舞・小片リサ「ふわり、恋時計」
+  * 稲場愛香・小関舞・小片リサ「赤イヤホン」 
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香・小関舞・小片リサ「赤イヤホン」 ](https://www.youtube.com/watch?v=MXLXymaQopo&t=2m8s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香・小関舞「ブギウギLOVE」](https://www.youtube.com/watch?v=MXLXymaQopo&t=9m32s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香・小関舞・小片リサ「ふわり、恋時計」](https://www.youtube.com/watch?v=Fb-tCRfIwBo&t=2m8s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香・小関舞・小片リサ「気まぐれプリンセス」](https://www.youtube.com/watch?v=Io_eSr7j61A&t=4m21s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香・小片リサ「プラトニック・プラネット」](https://www.youtube.com/watch?v=ZTNVRAtyCpA&t=3m16s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香・小関舞・小片リサ「Midnight Temptation」](https://www.youtube.com/watch?v=VdqWrgrrdYc&t=23m40s){:target="_blank"}
+
 ### RISA OGATA CONCERT 2023「Coeur à coeur」<small>2023年8月公演 第一ホテル両国「清澄」(東京)</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Btter & Sweet・工藤由愛・石山咲良「コイセヨ！」](https://www.youtube.com/watch?v=EPI9YjiqgNA&t=13m42s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「真夏の光線」 ](https://www.youtube.com/watch?v=ZTNVRAtyCpA&t=12m16s){:target="_blank"}
@@ -98,13 +110,3 @@
 * [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「Bitter & Sweet」](https://www.youtube.com/watch?v=VdqWrgrrdYc&t=9m43s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「じらして愛して」](https://www.youtube.com/watch?v=W9kGuqorezA&t=9m0s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「-Winter Story-」](https://www.youtube.com/watch?v=MeUJgeeFOOw&t=11m21s){:target="_blank"}
-
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ](){:target="_blank"}
-
-
-
