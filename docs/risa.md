@@ -126,7 +126,7 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
   * ヒトリトイロ
   * 悪嬢転生 リニューアル公演
   * Hello! Brand new me
-* [小片リサ LIVE映像](#title) 👈
+* [小片リサ LIVE映像](#title){:target="_self"} 👈
   * bon voyage!
   * Coeur à Coeur
   * \- Mi RooM \-

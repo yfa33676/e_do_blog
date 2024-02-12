@@ -10,3 +10,8 @@ twitter:
   username: e_do_kiriko
   card: summary
 locale : JA
+defaults:
+  - scope:
+      path: ""
+    values:
+      a_target: "_blank"
