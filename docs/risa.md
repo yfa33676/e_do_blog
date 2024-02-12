@@ -98,7 +98,7 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
 
 ### RISA OGATA CONCERT「éclatant」<small>2023年10月公演 COTTON CLUB (東京)</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（小片リサ・工藤由愛・石山咲良）](https://www.youtube.com/watch?v=scacaAEA0WA&t=10m35s){:target="_blank"}
-  *  小片リサBitter & Sweet・・工藤由愛・石山咲良「ヒロインになろうか！」
+  *  小片リサ・Bitter & Sweet・工藤由愛・石山咲良「ヒロインになろうか！」
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・工藤由愛・石山咲良「映画の趣味が合うだけ」](https://www.youtube.com/watch?v=g8dcb9PIMAw&t=4m54s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「Happyを止めないで」](https://www.youtube.com/watch?v=nRdTqAFHhCk&t=12m1s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「ちいさな世界」](https://www.youtube.com/watch?v=scacaAEA0WA&t=3m25s){:target="_blank"}
