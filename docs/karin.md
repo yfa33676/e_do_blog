@@ -89,4 +89,4 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 
 * [<i class="fa-lg fa-brands fa-youtube"></i> M-line Music](https://www.youtube.com/@mlinemusic)  
 
-で毎週金曜日19:00より配信される番組「M-line Music」からリンクを作成しました。
+で毎週金曜日19:00より配信される番組「M-line Music」からリンクを作成しました。g
