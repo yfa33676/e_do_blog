@@ -13,6 +13,7 @@
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](docs/MSMW2021.md)
 * [M-line Music LIVE映像 M-line Special 2022～My Wish～](docs/MSMW2022.md)
 * [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](docs/MSMW2023.md)
+* [M-line Music LIVE映像 M-line Special 2024～Many well wishes～](docs/MSMW2024.md)
 * [宮本佳林 LIVE映像](docs/karin.md)
   * アメジスト
   * ダリア

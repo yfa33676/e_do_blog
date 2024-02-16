@@ -113,11 +113,15 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
 * [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「Bitter & Sweet」](https://www.youtube.com/watch?v=VdqWrgrrdYc&t=9m43s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「じらして愛して」](https://www.youtube.com/watch?v=W9kGuqorezA&t=9m0s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「-Winter Story-」](https://www.youtube.com/watch?v=MeUJgeeFOOw&t=11m21s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「ふりさけみれば・・・」](https://www.youtube.com/watch?v=cfecJKr3EMM&t=3m38s){:target="_blank"}
+
+
 
 ## 関連リンク
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
 * [M-line Music LIVE映像 M-line Special 2022～My Wish!～](./MSMW2022.md)
 * [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](./MSMW2023.md)
+* [M-line Music LIVE映像 M-line Special 2024～Many well wishes～](./MSMW2024.md)
 * [宮本佳林 LIVE映像](./karin.md)
   * アメジスト
   * ダリア

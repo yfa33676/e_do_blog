@@ -69,6 +69,7 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
 * [M-line Music LIVE映像 M-line Special 2022～My Wish!～](./MSMW2022.md)
 * [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](./MSMW2023.md)
+* [M-line Music LIVE映像 M-line Special 2024～Many well wishes～](./MSMW2024.md)
 * [宮本佳林 LIVE映像](#title){:target="_self"} 👈
   * アメジスト
   * ダリア
