@@ -78,6 +78,7 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
   * 小片リサ・河西結心・八木栞「雨音はショパンの調べ」
   * 小片リサ・河西結心・八木栞「ハナモヨウ」
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet「夢の中」](https://www.youtube.com/watch?v=VdVyiDR3_QE&t=10m17s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet・河西結心・八木栞「色っぽい女～SEXY BABY～」](https://www.youtube.com/watch?v=fPwrQL7_tzw&t=14m20s){:target="_blank"}
 
 ### LIVE 2023 - Mi RooM - <small>2023年6月公演 COTTON CLUB (東京)</small>
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記（稲場愛香・小関舞・小片リサ）](https://www.youtube.com/watch?v=VdVyiDR3_QE&t=18m3s){:target="_blank"}
