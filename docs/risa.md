@@ -115,6 +115,7 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「じらして愛して」](https://www.youtube.com/watch?v=W9kGuqorezA&t=9m0s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「-Winter Story-」](https://www.youtube.com/watch?v=MeUJgeeFOOw&t=11m21s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter & Sweet「ふりさけみれば・・・」](https://www.youtube.com/watch?v=cfecJKr3EMM&t=3m38s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「Kitty」](https://www.youtube.com/watch?v=Zc7-o-E6_7E&t=5m7s){:target="_blank"}
 
 
 

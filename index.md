@@ -41,7 +41,7 @@
 
 ## リンク
 
-* [YouTubeチャプター検索](https://yfa33676.github.io/youtube)
+* [YouTubeチャプター検索](https://yfa33676.github.io/youtube){:target="_blank"}
 
 ## バックナンバー
 
