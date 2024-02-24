@@ -280,13 +280,13 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> 最終回](https://www.youtube.com/watch?v=XN3IDqXcL6I&t=42m23s){:target="_blank"}
 
 ### 2015年10月13日 カントリー・ガールズ DVD MAGAZINE Vol.1 発売 {#section-2015-10-13}
-* [<i class="fa-lg fa-brands fa-youtube"></i>富士急ハイランドで遊ぼう！ CM](https://www.youtube.com/watch?v=Xg5ZB8pLBME){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 富士急ハイランドで遊ぼう！ CM](https://www.youtube.com/watch?v=Xg5ZB8pLBME){:target="_blank"}
 
 ### 2015年10月13日～12月9日 カントリー・ガールズライブツアー2015 秋冬（1周年記念 ＆ 嗣永桃子復活祭 ＆ やなふな加入！！） {#section-2015-10-13_12-9} 
 * [<i class="fa-lg fa-brands fa-youtube"></i> 裏側編(横浜Bay Hall)](https://www.youtube.com/watch?v=Q0268hJpxNk&t=5m47s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「二人の北海道」(横浜Bay Hall) ](https://www.youtube.com/watch?v=INFWNZCYoVU&t=25m8s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i>  新メンバー加入発表！(新宿ReNY) ](https://www.youtube.com/watch?v=guTOhsKqmEs&t=0m21s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i>  新メンバー密着編(新宿ReNY) ](https://www.youtube.com/watch?v=VTMA1aatD24&t=14m37s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 新メンバー加入発表！(新宿ReNY) ](https://www.youtube.com/watch?v=guTOhsKqmEs&t=0m21s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 新メンバー密着編(新宿ReNY) ](https://www.youtube.com/watch?v=VTMA1aatD24&t=14m37s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「キスより先にできること」(札幌ペニーレーン24) ](https://www.youtube.com/watch?v=x9g1jsajLhY&t=32m8s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「妄想リハーサル」(柏PALOOZA) ](https://www.youtube.com/watch?v=nQ1ncwuiq_k&t=33m57s){:target="_blank"}
 
