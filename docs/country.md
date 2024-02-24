@@ -6,10 +6,11 @@
 
 ## 目次 {#目次}
 
-- [2014年](#section-2014)
+### [2014年](#section-2014)
   - [2014年11月5日 カントリー・ガールズ結成！！！！](#section-2014-11-5)
   - [2014年12月31日 Hello! Project COUNTDOWN PARTY 2014 ～ GOOD BYE & HELLO ! ～](#section-2014-12-31)
-- [2015年](#section-2015)
+
+### [2015年](#section-2015)
   - [2015年1月2日～2月15日 Hello! Project 2015 WINTER ～DANCE MODE！～](#section-2015-1-2_2-15)
   - [2015年3月25日 1stシングル「愛おしくってごめんね／恋泥棒」発売！！](#section-2015-3-25)
   - [2015年5月2日・3日 Juice=Juice 中野サンプラザ公演 オープニングアクト！](#section-2015-5-2_3)
@@ -21,7 +22,8 @@
   - [2015年10月13日 カントリー・ガールズ DVD MAGAZINE Vol.1 発売](#section-2015-10-13)
   - [2015年10月13日～12月9日 カントリー・ガールズライブツアー2015 秋冬（1周年記念 ＆ 嗣永桃子復活祭 ＆ やなふな加入！！）](#section-2015-10-13_12-9)
   - [2015年12月9日 新メンバープロフィール！](#section-2015-12-9)
-- [2016年](#section-2016)
+
+### [2016年](#section-2016)
   - [2016年1月2日～2月20日 Hello! Project 2016 WINTER ～ DANCING！SINGING！EXCITING！～](#section-2016-1-2_2-20)
   - [2016年1月28日・2月4日 梁川奈々美、船木結のパワースポットを目指す江ノ島散歩 配信](#section-2016-1-28_2-4)
   - [2016年3月9日 3rdシングル「ブギウギLOVE／恋はマグネット／ランラルン～あなたに夢中～」発売！！](#section-2016-3-9)
@@ -36,7 +38,8 @@
   - [2016年9月28日 4thシングル「どーだっていいの／涙のリクエスト」発売！！！](#section-2016-9-28)
   - [2016年9月24日 カントリー・ガールズ DVD MAGAZINE Vol.4 発売](#section-2016-9-24)
   - [2016年10月22日～12月11日 カントリー・ガールズライブツアー 2016冬](#section-2016-10-22_12-11)
-- [2017年](#section-2017)
+
+### [2017年](#section-2017)
   - [2017年1月2日～2月25日 Hello! Project 2017 WINTER 〜 Crystal Clear ・Kaleidoscope 〜](#section-2017-1-2_2-25)
   - [2017年2月8日 5thシングル「Good Boy Bad Girl／ピーナッツバタージェリーラブ」発売！！！](#section-2017-2-8)
   - [2017年2月9日・16日 小関舞＆梁川奈々美の浅草散策！ 配信](#section-2017-2-9_16)
@@ -53,7 +56,8 @@
   - [2017年11月6日 カントリー・ガールズ DVD MAGAZINE Vol.10 発売](#section-2017-11-6_DVD)
   - [2017年11月6日 カントリー・ガールズ3周年記念イベント～みんな元気してた？～（ディファ有明）](#section-2017-11-6_LIVE)
   - [2017年12月24日 配信シングル「書いては消しての “I Love You”」配信！！！](#section-2017-12-24)
-- [2018年](#section-2018)
+
+### [2018年](#section-2018)
   - [2018年2月14日 DVD MAGAZINE Vol.11 発売](#section-2018-2-14_DVD)
   - [2018年2月14日 CG VD～Sweet Chocolat Night～](#section-2018-2-14_EVENT)
   - [2018年4月6日～27日 ハロー！プロジェクト20周年企画：グループ兼任の経験者座談会：夏焼雅、森戸知沙希、梁川奈々美](#section-2018-4-6_27)
@@ -62,7 +66,8 @@
   - [2018年8月24日 配信シングル「待てないアフターファイブ／傘をさす先輩」配信！！！](#section-2018-8-24)
   - [2018年11月5日 カントリー・ガールズ DVD MAGAZINE Vol.13 発売](#section-2018-11-5_DVD)
   - [2018年11月5日 カントリー・ガールズ4周年記念イベント ～forte～（Zepp Tokyo）](#section-2018-11-5_LIVE)
-- [2019年](#section-2019)
+
+### [2019年](#section-2019)
   - [2019年3月11日 Juice=Juice&カントリー・ガールズLIVE～梁川奈々美 卒業スペシャル～（Zepp Tokyo）](#section-2019-3-11)
   - [2019年3月30日・31日 Hello! Project 20th Anniversary!! Hello! Project ひなフェス 2019（幕張メッセ）](#section-2019-3-30_31)
   - [2019年7月13日～9月1日 Hello! Project 2019 SUMMER 「beautiful/harmony](#section-2019-7-13_9-1)
@@ -109,9 +114,10 @@
 
 * **嗣永桃子** <small>（22歳 千葉県出身）</small>
 
+参加！！！！！ Berryz工房の活動休止を2015年3月に控えたももち先輩がここでカントリーのPMとして参加するわけですね。
+
 [目次へ](#目次)
 
-参加！！！！！ Berryz工房の活動休止を2015年3月に控えたももち先輩がここでカントリーのPMとして参加するわけですね。
 ### 2014年12月31日 Hello! Project COUNTDOWN PARTY 2014 ～ GOOD BYE & HELLO ! ～ {#section-2014-12-31}
 
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「愛おしくってごめんね」](https://www.youtube.com/watch?v=EceniZU9WK0&t=12m42s){:target="_blank"}
@@ -234,6 +240,8 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 改めてですけどBメロで縦一列になったあと、ちぃちゃんがくるっと後ろを振り返りおぜちぃを向き合わせる振り付けを考えた方…
 
 <big>👍</big>
+
+[目次へ](#目次)
 
 ### 2015年7月11日～8月29日 Hello! Project 2015 SUMMER 〜DISCOVERY・CHALLENGER〜 {#section-2015-7-11_8-29}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「わかっているのにごめんね」(日本特殊陶業市民会館) ](https://www.youtube.com/watch?v=BvauQt6xxMc&t=7m57s){:target="_blank"}
@@ -359,7 +367,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 [目次へ](#目次)
 
-### 2016年3月9日 3rdシングル「ブギウギLOVE／恋はマグネット／ランラルン～あなたに夢中～」発売！！！{#section-2016-3-9}
+### 2016年3月9日 3rdシングル「ブギウギLOVE／恋はマグネット／ランラルン～あなたに夢中～」発売！！！ {#section-2016-3-9}
 #### ミュージックビデオ
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」](https://www.youtube.com/watch?v=wT28y_i78hs){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「恋はマグネット」](https://www.youtube.com/watch?v=ec0xLC70Z4Y){:target="_blank"}
