@@ -1,8 +1,8 @@
-# YouTube で振り返るカントリー・ガールズ
+## カントリー・ガールズのYouTubeを見よう
 
 2024年はカントリー・ガールズ10周年Yearです！！👏
 
-というわけで、ハロステ！を中心にハロプロ公式YouTubeチャンネルから、カントリー・ガールズ名場面を振り返ろうじゃないかと！
+というわけで、ハロステ！を中心にハロプロ公式YouTubeチャンネルから、カントリー・ガールズ映像を年表形式で振り返りましょう👍
 
 ## 目次 {#目次}
 
@@ -301,10 +301,25 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> 音楽ジャンル編（後編）](https://www.youtube.com/watch?v=HFO8dV0OE1M&t=32m12s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 最終回](https://www.youtube.com/watch?v=XN3IDqXcL6I&t=42m23s){:target="_blank"}
 
+こんなにやっていたとは笑 結構面白いですよね。
+
+* 講師：たいせい
+* 生徒：山木梨沙、稲場愛香、森戸知沙希、小関舞
+
+という構成でさまざまな音楽講座を楽しむことができます。たとえば、「コーラス編」では「ためらいサマータイム」のコーラスが何声で構成されているか、各トラックを聴かせてたり、たいせいさんが主線の三度下を弾いて見せてメンバーが即興でハモったり、、あるいは、「ギター編」「鍵盤楽器編」ではレコーディングスタジオでいろいろな楽器に触ってみたり、、
+
+めちゃめちゃ勉強になるのよ！ 
+
 [目次へ](#目次)
 
 ### 2015年10月13日 カントリー・ガールズ DVD MAGAZINE Vol.1 発売 {#section-2015-10-13}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 富士急ハイランドで遊ぼう！ CM](https://www.youtube.com/watch?v=Xg5ZB8pLBME){:target="_blank"}
+
+さあ！ ついにカントリーDマガが発売になります。2015秋冬ツアーの各会場で売られていたんですね。まなかんが
+
+> 乱暴なんですよ！ すごいあいつが！ なんだっけ？ 名前？ FUJIYAMA？
+
+って、FUJIYAMAにキレてるのとか笑 即興ソング「**君と二人で遊園地**」も聴けます👍 観覧車で舞ちゃんとまなかんが乗ってるのも改めてエモいですよね。。まなまいですよ。。この2人が8年後にバスツアーを開くのですから。。
 
 [目次へ](#目次)
 
@@ -349,6 +364,12 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
   * 「梁川奈々美」プロフィール映像 
   * 「船木結」プロフィール映像 
 
+さあ！というわけで、**やなふな**💛💜が加入しました！！👍 しかし、初期のやなみんは最大級にら行が出てないですね笑 かわいい。結はもうこのときすでになめ茸ごはんが好きな話をしています！ ２人とも憧れの先輩に**宮本佳林**ちゃんをあげているんですね。。やなみんはそれを言っている印象あるんすけど、そうか、結もだったんすね。
+
+いま、その佳林ちゃんと舞ちゃんがM-lineで大活躍をしていると思うと、、、グッときますわ。。。
+
+後に語られるように当時のやなふなはかなり**バチバチ**🔥です。。どうなっちゃうのでしょうか。。
+
 [目次へ](#目次)
 
 ---
@@ -359,11 +380,31 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> リハーサル日記](https://www.youtube.com/watch?v=Odk0C8bSN80){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「愛おしくってごめんね」（中野サンプラザ） <small>（※ 新年のご挨拶）</small>](https://www.youtube.com/watch?v=Qwh-xRWBVws&t=40m7s){:target="_blank"}
 
+明けて2016年です。この衣装も可愛いですよね～
+
+そして、この「愛おしくってごめんね」にはわりと歴史的な意味があります。「愛おしくってごめんね」の歌い出しの台詞
+
+> 君のこと好きになってから 自分じゃないみたい うまく言えなくて ごめんね！✋
+
+はオリジナルでは**島村嬉唄ちゃん**が担当をしていてとても印象的だったんですね。だからこそ、嬉唄ちゃんがカントリーを離れてからそこを誰も担当できずにいました。半年の時を越えてやなふなが加入してようやく解禁されます。最初に解禁されたのが2015年のカウコンで歌い出しは**結ちゃん**でした。そして、2016年の冬のハロコンでは**やなみん**だった。もしかしたら、やなふなが交代でやってみてどちらにするかを試されていたのかもしれませんね。。想像ですけど、ここでもやなふながバチバチあったんじゃないか。。
+
+結果的にはやなみんが歌い出しの台詞を担当することになりましたね。
+
 [目次へ](#目次)
 
 ### 2016年1月28日・2月4日 梁川奈々美、船木結のパワースポットを目指す江ノ島散歩 配信 {#section-2016-1-28_2-4}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 弁財天仲見世通り・江島神社](https://www.youtube.com/watch?v=a2ZcLaWe5x8&t=4m42s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> シーキャンドルで語り合う！](https://www.youtube.com/watch?v=hYjvj0DVAhk&t=27m10s){:target="_blank"}
+
+さて、、こちらも伝説のやなふな映像でございます。。展望台「江の島シーキャンドル」で素敵な景色を見ながら、、、
+
+> 結ちゃん「今日は1日どうでしたか？」 <br> やなみん「**逆に聞くけど結は？**」
+
+笑笑笑笑笑笑笑笑笑笑笑笑笑笑
+
+スタジオでも雅ちゃん爆笑なのよ笑笑笑笑笑
+
+はい。これが後に語り継がれる「逆に聞くけど結は？」事件です。
 
 [目次へ](#目次)
 
@@ -375,8 +416,8 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 #### ミュージックビデオメイキング
 * [<i class="fa-lg fa-brands fa-youtube"></i> MV撮影の裏側「ブギウギLOVE」](https://www.youtube.com/watch?v=aTgP0cnYMJs&t=3m46s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> MV撮影の裏側「ランラルン～あなたに夢中～」](https://www.youtube.com/watch?v=zXmB-sO1ybU&t=3m49s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> MV撮影の裏側「恋はマグネット」](https://www.youtube.com/watch?v=ssJYfQ7Lf7U&t=3m21s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> MV撮影の裏側「ランラルン～あなたに夢中～」](https://www.youtube.com/watch?v=zXmB-sO1ybU&t=3m49s){:target="_blank"}
 
 #### 発売記念イベント
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」（ららぽーとTOKYO-BAY）](https://www.youtube.com/watch?v=n4a8u9GBknY&t=8m2s){:target="_blank"}
@@ -384,14 +425,27 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 #### レコーディング
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」レコーディング映像（ボーカル編）](https://www.youtube.com/watch?v=ZUuSIOPHLTQ&t=25m56s){:target="_blank"}
+  * 船木結
+  * 梁川奈々美
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」レコーディング映像（ボーカル編）](https://www.youtube.com/watch?v=zXmB-sO1ybU&t=24m4s){:target="_blank"}
+  * 小関舞
+  * 森戸知沙希
+  * 嗣永桃子
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」レコーディング映像（ボーカル編）](https://www.youtube.com/watch?v=Z0-ad-HSy0A&t=32m45s){:target="_blank"}
+  * 山木梨沙
+  * 稲場愛香
+
+3rdシングルです！ 名曲ですね。ブギウギ、恋マグ、ランラルンの3曲です。やなふなの印象も強いですが、結構まなかんのイメージもありますよね。恋マグはお姉さんチーム（ももち先輩、梨沙ちゃん、まなかん）が中心の歌割りになっていて、1st、2ndに比べてグッと大人っぽい印象になっております。恋マグのクールで大人っぽい曲調は今でも繰り返し歌われるほど人気ですよね。
+
+それぞれMV撮影の裏側があります。個人的にはランラルンのMVがめちゃめちゃ大好きで、なんというのでしょうね、、モダンな西洋風で絵本の世界のような、、、ハットと蝶ネクタイのやなふなちぃも可愛い🥰
 
 [目次へ](#目次)
 
 ### 2016年2月25日・3月3日 稲場愛香＆森戸知沙希の大宮散策！ 配信 {#section-2016-2-25_3-3}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 氷川神社編 ](https://www.youtube.com/watch?v=ipCBYb9qvWs&t=3m30s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> マクロビオティックランチ編 ](https://www.youtube.com/watch?v=1y110FTm3eo&t=2m50s){:target="_blank"}
+
+まなちー❤🧡 きました！
 
 [目次へ](#目次)
 
