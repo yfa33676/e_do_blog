@@ -46,8 +46,8 @@
   - [2017年2月9日・16日 小関舞＆梁川奈々美の浅草散策！ 配信](#section-2017-2-9_16)
   - [2017年2月11日 里田まい×カントリー・ガールズ 全員集合！ 配信](#section-2017-2-11)
   - [2017年4月9日 カントリー・ガールズ DVD MAGAZINE Vol.5～6 発売](#section-2017-4-9)
-  - [2017年4月28日 カントリー・ガールズ DVD MAGAZINE 7 発売](#section-2017-4-28)
   - [2017年4月9日～5月20日 カントリー・ガールズ コンサートツアー2017春～ももちイズム～<small>※ 2017年4月29日～5月14日 ライブツアー</small>](#section-2017-4-9_5-20)
+  - [2017年4月29日 カントリー・ガールズ DVD MAGAZINE 7 発売](#section-2017-4-29)
   - [2017年6月26日 ハロ！ステ号外 ～ハロー！プロジェクト2017新体制決定スペシャル～ 配信](#section-2017-6-26)
   - [2017年6月29日 カントリー・ガールズ DVD MAGAZINE Vol.8 発売](#section-2017-6-29)
   - [2017年6月30日 嗣永桃子ラストライブ ありがとう おとももち（青海野外特設会場](#section-2017-6-30)
@@ -512,6 +512,8 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 カントリーメンバーのみんなが🍛をあ～んって食べさせてくれます🥄 あざかわまなかんが圧倒的に優勝しております👍
 
+そして、、**無洗米ウォッシャー**が爆誕したのもこちらのDマガでございます、、、
+
 こちらのDマガは「ライブツアー 2016春夏」の会場で売られていたみたいですね。
 
 [目次へ](#目次)
@@ -795,10 +797,13 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 * [<i class="fa-lg fa-brands fa-youtube"></i> ピーナッツバタージェリーサンド作りに挑戦！（Vol.5） CM ](https://www.youtube.com/watch?v=C6j5XjWUssY){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ライブツアー2016冬（11月5日新宿ReNY公演舞台裏）（Vol.6） CM ](https://www.youtube.com/watch?v=Hb1FLHOVUwE){:target="_blank"}
 
-[目次へ](#目次)
+このDマガも大好きです🥰 ピーナッツバター作り体験といちご狩り！ もういちごを手に取ったらですね、カメラに向かって「あ～ん」をする、もう自然に染み込まれたこのももちイズムなのです。
 
-### 2017年4月28日 カントリー・ガールズ DVD MAGAZINE 7 発売 {#section-2017-4-28}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ギリギリグランプリ ＆ 苦手克服企画！ CM ](https://www.youtube.com/watch?v=-Cw2Jb2E68Q){:target="_blank"}
+発売日の4月9日はカントリー・ガールズ初のコンサートツアー
+
+* **カントリー・ガールズ コンサートツアー2017春～ももちイズム～**
+
+の初日です！
 
 [目次へ](#目次)
 
@@ -806,7 +811,15 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズからのお知らせ&Rec映像 ](https://www.youtube.com/watch?v=El42ovxg4VY&t=3m10s){:target="_blank"}
   * アイドル卒業注意事項
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「愛おしくってごめんね」（中野サンプラザ） ](https://www.youtube.com/watch?v=-zL_BCApmOI&t=11m58s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「アイドル卒業注意事項」（中野サンプラザ） ](https://www.youtube.com/watch?v=WEraq15NxSQ&t=33m12s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 嗣永桃子「ももち！ずっとおとももち」（中野サンプラザ）](https://www.youtube.com/watch?v=UvTUR48KY90&t=19m12s){:target="_blank"}
+
+さあ、ついに始まりましたコンサートツアー **ももちイズム** です！
+
+[目次へ](#目次)
+
+### 2017年4月29日 カントリー・ガールズ DVD MAGAZINE 7 発売 {#section-2017-4-29}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ギリギリグランプリ ＆ 苦手克服企画！ CM ](https://www.youtube.com/watch?v=-Cw2Jb2E68Q){:target="_blank"}
 
 [目次へ](#目次)
 
