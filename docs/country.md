@@ -1,6 +1,6 @@
 ## カントリー・ガールズのYouTubeを見よう
 
-2024年はカントリー・ガールズ10周年Yearです！！👏
+2024年はカントリー・ガールズ**10周年Year**です！！👏👏👏👏👏
 
 というわけで、ハロステ！を中心にハロプロ公式YouTubeチャンネルから、カントリー・ガールズ映像を年表形式で振り返りましょう👍
 
@@ -36,8 +36,8 @@
   - [2016年6月23日・30日 森戸知沙希＆小関舞が横須賀から千葉へ！ 配信](#section-2016-6-23_30)
   - [2016年7月16日～9月3日 Hello! Project 2016 SUMMER 〜 Sunshine Parade 〜・〜 Rainbow Carnival 〜](#section-2016-7-16_9-3)
   - [2016年7月20日～8月10日 カントリー・ガールズの歴史のお時間](#section-2016-7-20_8-10)
-  - [2016年9月28日 4thシングル「どーだっていいの／涙のリクエスト」発売！！！](#section-2016-9-28)
   - [2016年9月24日 カントリー・ガールズ DVD MAGAZINE Vol.4 発売](#section-2016-9-24)
+  - [2016年9月28日 4thシングル「どーだっていいの／涙のリクエスト」発売！！！](#section-2016-9-28)
   - [2016年10月22日～12月11日 カントリー・ガールズライブツアー 2016冬](#section-2016-10-22_12-11)
 
 ### [2017年](#section-2017)
@@ -177,7 +177,7 @@
 
 * **木下菜津子** <small>先生</small>
 
-が登場します！ もうね、、本当にお世話になっております。。。ありがとうございます。。。
+が登場します！ もうね、、本当にお世話になっております。。。ありがとうございます。。。これ以降もたくさんダンスレッスンの映像がありますが、最後まで木下菜津子先生です！
 
 [目次へ](#目次)
 
@@ -547,9 +547,13 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 何が泣けるってさ、本当にいろいろなことあっても笑顔で振り払って、まっすぐ突き進んで気づけばどんどん未来が明るくなってるのよ。もはやかっこいいのよ。この曲はカントリーにとって大切な場面で繰り返し歌われることになります。。
 
+あとこの振り付けもマジで素晴らしいのですけど、最後の間奏でやなふながアルプス一万尺をするんですね、、向き合ってて遊びをする、、それを暖かく見守るメンバーたち、、、😭
+
 そして、「リズム」ですよ！！ これがまー楽しい！！ この曲は客席とステージの間でリズムで遊ぶところがありまして、ライブ毎にいろいろ変わるんですよ。たとえば、Buono!ライブでゲスト出演したときには、雅ちゃんぽく、愛理ちゃんぽく、ももち先輩っぽくやったり。
 
 今ではMSMW<small>（M-line Special）</small>での定番にもなっていてですね、佳林ちゃんやりさまるにもリズムを仕掛けてめちゃめちゃ新しい展開になっております👍
+
+ちぃちゃん耳真っ赤～
 
 
 [目次へ](#目次)
@@ -558,11 +562,23 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> 横須賀を大満喫！編](https://www.youtube.com/watch?v=gcg5czOrOX8&t=2m18s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 千葉へ海を渡る！編](https://www.youtube.com/watch?v=apiiNA2Fhyo&t=1m42s){:target="_blank"}
 
+おぜちぃ💙🧡きたあああああああああああ！
+
+まいちゃんが何かをしてちぃちゃんのゲラゲラ🤣するこの図式がもうね、、完全に確立しております。
+
+改めてですけど、、可愛いですね。。まいちゃんキャップ似合うな、、、
+
+この関係性がですね、、2024年今現在でも続いているんですよ。。。おぜちぃ👍
+
 [目次へ](#目次)
 
 ### 2016年7月16日～9月3日 Hello! Project 2016 SUMMER 〜 Sunshine Parade 〜・〜 Rainbow Carnival 〜 {#section-2016-7-16_9-3}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「リズムが呼んでいるぞ！」(ニトリ文化ホール) ](https://www.youtube.com/watch?v=7anubT3gcR0&t=20m58s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」 (中野サンプラザ) ](https://www.youtube.com/watch?v=yHNvVrn9mrE&t=20m42s){:target="_blank"}
+
+2016夏のハロコンですね。リズムもここで披露してたんだ！ そして、9月28日に発売をひかえているニューシングル「どーだっていいの」もハロコン初披露ですね。ハロコン初披露だと新曲衣装での映像が残るからいいですよね🥰
+
+「どーだっていいの」もまた50年代的な曲調ですが、「ブギウギLOVE」の衣装が3色<small>（ももち先輩・梨沙ちゃん・まなかん、おぜちぃ、やなふな）</small>で分かれていたのと違って、全員メンバーカラーの衣装になっております。もう私もファッション的なこと全然分からないですけど、オードリー・ヘップバーン的な？ローマの休日的な？雰囲気のいい感じのファッションですよね～
 
 [目次へ](#目次)
 
@@ -572,6 +588,29 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> 第３回 ](https://www.youtube.com/watch?v=Rp6jKq6OhTo&t=32m23s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 第４回 ](https://www.youtube.com/watch?v=7anubT3gcR0&t=26m50s){:target="_blank"}
 
+さて、、何かかいろいろ明らかとなるこの「カントリー・ガールズの歴史のお時間」！ 歴史クイズですね。第３回で
+
+> 「鳴かぬなら殺してしまえ〇〇〇〇〇」「鳴かぬなら鳴かせてみせよう〇〇〇〇〇」「鳴かぬなら鳴くまでまとう〇〇〇〇〇」　〇に入る鳥は？
+
+という問題。やなみん、まいちゃん、ちぃちゃん、梨沙ちゃんは
+
+> ほととぎす
+
+と、当然でしょう～と回答。そこでひとり口をおさえる結ちゃん
+
+> やっちまった～
+
+よいです。。バンバンとクイズに答えるやなみん、「やっちまった」結ちゃん。。いい感じの対比が見られます。。
+
+[目次へ](#目次)
+
+### 2016年9月24日 カントリー・ガールズ DVD MAGAZINE Vol.4 発売 {#section-2016-9-24}
+* [<i class="fa-lg fa-brands fa-youtube"></i> マザー牧場にやって来た！ CM ](https://www.youtube.com/watch?v=mDwT2vDERgs){:target="_blank"}
+
+これも大好き！ カントリーのメンバーが🐄🐑🐎🐖とたわむれます👍
+
+ついに**山木嬢**✨の乗馬もご披露されます！
+
 [目次へ](#目次)
 
 ### 2016年9月28日 4thシングル「どーだっていいの／涙のリクエスト」発売！！！ {#section-2016-9-28}
@@ -579,7 +618,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ 新曲発売のお知らせ ](https://www.youtube.com/watch?v=P_O8D0FbxgQ&t=28m53s){:target="_blank"}
 
 #### ミュージックビデオ
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」(スマートフォン Edit.) スマホ視聴推奨 ](https://www.youtube.com/watch?v=ZB0JUi5aCtg){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」(スマートフォン Edit.)](https://www.youtube.com/watch?v=ZB0JUi5aCtg){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」](https://www.youtube.com/watch?v=C7TgAVcvB9k){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「涙のリクエスト」](https://www.youtube.com/watch?v=nHeUWB8qnZ0){:target="_blank"}
 
@@ -604,19 +643,54 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 #### ダンスレッスン
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」ダンスレッスン ](https://www.youtube.com/watch?v=ic0CWVQov0w&t=17m48s){:target="_blank"}
 
-[目次へ](#目次)
+さあ！！！ 4枚目のニューシングル「どーだっていいの／涙のリクエスト」です！！！
 
-### 2016年9月24日 カントリー・ガールズ DVD MAGAZINE Vol.4 発売 {#section-2016-9-24}
-* [<i class="fa-lg fa-brands fa-youtube"></i> マザー牧場にやって来た！ CM ](https://www.youtube.com/watch?v=mDwT2vDERgs){:target="_blank"}
+「どーだっていいの」MVいいですよね～ ひとつのスタンドマイクをめぐってメンバーが入れ代わり立ち代わりカメラに迫る感じ！ めっちゃ大好き！
+
+たしかあれですよね、結ちゃんはおたふくかぜ明けでちょっとふっくらしてるんですよね笑<small>（『大全集①』でたしかその話がありました）</small> やなみんが八の字まゆで割り箸でシンバルを叩いていたり笑 楽しい！！！
+
+あと個人的に好きなのは卓偉さんのレコーディングですよね。。このシリーズめちゃめちゃ好きです。
+
+> じゃあ、積みます～
+
+と言いながら、どんどんハモリを**積む**卓偉さん。
+
+> どぅ～だっていいのっほ～🎵
+
+好き。
+
+リリイベの聖地**池袋サンシャイン噴水広場**でもリリイベしてますね～ 発売記念イベントも「派手にジャケットサイン会」「俺の銀のロケットお渡し会」など企画的なこともやっていたんですな。
+
+「涙のリクエスト」では出ました！
+
+* **やなサックス**🎷
+
+やなみんといえばサックスなのです。MVもいいですよね🥰 遠近撮影でやなサックスに吸い込まれるメンバーたち笑 スカジャン衣装もめっちゃ可愛い！
 
 [目次へ](#目次)
 
 ### 2016年10月22日～12月11日 カントリー・ガールズライブツアー 2016冬 {#section-2016-10-22_12-11}
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」(新宿ReNY) <small>（※ 嗣永桃子 卒業発表）</small>](https://www.youtube.com/watch?v=VofUJ97ZTrk&t=8m32s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」(新宿ReNY) <small>（※ 2016年11月5日 嗣永桃子 卒業発表）</small>](https://www.youtube.com/watch?v=VofUJ97ZTrk&t=8m32s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「リズムが呼んでいるぞ」(新宿ReNY) ](https://www.youtube.com/watch?v=XmT5JEwYqQM&t=19m16s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「VIVA!!薔薇色の人生」(ZeppTokyo) ](https://www.youtube.com/watch?v=v4rfNYe55WA&t=27m37s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「涙のリクエスト」(Zepp Tokyo) ](https://www.youtube.com/watch?v=_4nww-s_q_c&t=16m34s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズツアー終了コメント ](https://www.youtube.com/watch?v=wEMMGUH7g34&t=42m13s){:target="_blank"}
+
+さあ！ **カントリー・ガールズ ライブツアー 2016冬** です！
+
+カントリーの結成2周年でもあり、やなふな加入1周年の日は1周年のときと同様**新宿ReNY**でのライブでした！<small>（結成日とやなふな加入日が一緒てのがいいですよね🥰）</small>
+
+ここでももち先輩の卒業発表がありました。
+
+このころのハロプロというとですね、2016年8月に℃-uteがSSA<small>（さいたまスーパーアリーナ）</small>でライブが決まり、それを最後にグループを解散することを発表した、という時期でした。そこに続いてももちも卒業を発表。。互いに卒業が2017年6月。しかも、これがハロー！プロジェクト・キッズが合格発表された日<small>（2002年6月30日）</small>からちょうど15年なんですね。
+
+ベリキュー世代が現役のハロプロから離れるということで、何か時代の区切りのようなものがあると全員思っていました。ももち先輩が言っていたように
+
+> ふと振り返ればこんなにも頼もしくなったメンバーがいて
+
+なんです😭
+
+このツアーファイナルは**Zepp Tokyo**でした！ **Zepp Tokyo**もカントリーにとって思い出深い場所になっていきます。ここでの「VIVA」もね、、いい。。どんどん胸に染みてくる。。。
 
 [目次へ](#目次)
 
@@ -628,14 +702,35 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」<small>（※ 新年のご挨拶）</small>](https://www.youtube.com/watch?v=Vh63VNvbPn0&t=45m24s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「Good Boy Bad Girl」(中野サンプラザ) ](https://www.youtube.com/watch?v=TiURorQYT3M&t=9m1s){:target="_blank"}
 
+さあ！！ 2017年になりました！ ももち先輩のラストシングル「Good Boy Bad Girl／ピーナッツバタージェリーラブ」発売が間もなくありまして、新曲披露されていますね～
+
+2017年冬のハロコンというと、どうしても思い出してしまうのが
+
+* **嗣永塾**
+
+です。。りさまるに「嗣永さんは自分のことを「ももち」というときと「私」というときがあるから「ももち」に統一してください」という意見頂きまして、、すかさず
+
+> 梨沙ちゃん「違います！ ももち先輩！ 「ももち」だったら可愛らしさ「私」だったら知的な感じが、出るよねやなみーん！」<br> やなみん「はい！ 一挙両得ですね～」
+
+**爆笑**。この連携プレーなのよ。そしたら、はるなん<small>（飯窪春菜）</small>が「怖いです、、**嗣永塾**しあがってません？」とひとこと、、そしたら、すかさず！
+
+> ちぃちゃん「飯窪さんひどい！！ そんなこと思ってたんですか！！ かなちぃ～」
+
+**爆笑２**。カントリーのこの返しの強さなんですよ。。さらに高木紗友希ちゃんから「ぶりっぶりっの可愛いを見せてください！」というリクエストにももち先輩「船木結！」とご指名、するとすかさず
+
+> ふなちゃん「は～いふなちゃんいっきま～す！よいしょ～ ひじきのにもにょ！ラブラブ！」
+
+**爆笑３**。リクエストには圧倒的な威力で応えるのがカントリーです。ももち先輩「声ガッサガサだね笑」。さらに、れいれい<small>（井上玲音）</small>から「かっこいいイケメンなのが見たいです」とリクエスト、、ももち先輩「小関舞！」とご指名、、すかさず、
+
+> 舞ちゃん「俺？ どこ見てんだよ？ お前はさ、、俺だけ見てりゃいいんだよ」
+
+<big>**Foooooooooooooooooooooooooo!!!**</big>
+
+もう何ですか、このグループは！！ 天才ですか？ 最強ですか！？ このあらゆるリクエストに圧倒的な応答をするカントリーメンバーたち。。。頼もしい。。。ももち先輩の教え子たち。。。
+
 [目次へ](#目次)
 
 ### 2017年2月8日 5thシングル「Good Boy Bad Girl／ピーナッツバタージェリーラブ」発売！！！ {#section-2017-2-8}
-#### レコーディング
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「Good Boy Bad Girl」ボーカル編 ](https://www.youtube.com/watch?v=FsCaIybmrXo&t=16m52s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」ギター編 ](https://www.youtube.com/watch?v=iPxWoHTNUYg&t=24m24s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」ボーカル編 ](https://www.youtube.com/watch?v=UoH9TO84mBA&t=26m22s){:target="_blank"}
-
 #### ミュージックビデオ
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」](https://www.youtube.com/watch?v=5k9cmZLKdaQ){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「Good Boy Bad Girl」](https://www.youtube.com/watch?v=yyzhzjKAgEs){:target="_blank"}
@@ -648,22 +743,57 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」(お台場ヴィーナスフォート) ](https://www.youtube.com/watch?v=JgifpHf29yQ&t=7m30s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> グッドバッドババヌキゲーム(GBBG)オフィシャル説明動画 ](https://www.youtube.com/watch?v=Wq8s511vEnE){:target="_blank"}
 
+#### レコーディング
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「Good Boy Bad Girl」ボーカル編 ](https://www.youtube.com/watch?v=FsCaIybmrXo&t=16m52s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」ギター編 ](https://www.youtube.com/watch?v=iPxWoHTNUYg&t=24m24s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ピーナッツバタージェリーラブ」ボーカル編 ](https://www.youtube.com/watch?v=UoH9TO84mBA&t=26m22s){:target="_blank"}
+
+さあ、というわけで、ももち先輩参加としては最後となるカントリー5枚目のシングル「Good Boy Bad Girl／ピーナッツバタージェリーラブ」が発売になります。
+
+PBJL<small>（ピーナッツバタージェリーラブ）</small>のMVいいですよね～🥰 改めてコンセプトがよくわからないですが笑 「**近未来料理空間**」という名の実験室で白衣＋眼鏡のメンバーたちがわちゃわちゃやっております。
+
+> Oh, ピーナッツバタージェリー ピーナッツバタージェリーラブ～ 
+
+このももち先輩のめちゃめちゃ美しい歌い出し！！ 綺麗なドレス！！
+
+**ヴィーナスフォート教会広場**での発売記念イベント映像もいいですね～ 教会広場とMVのコンセプトがマッチしてるのでうってつけです！
+
+PBJLのギターレコーディングもいいですよね。後ろに流れるジャララ～ンというギターがとても素敵で✨ 
+
+GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラルンMVもそうですが、男役女役が分かれることがカントリー多くて、その中でもGBBGが最高ですね。
+
+> ななななんで今キスしたの？ 待ってなんで嫌がってんの？ 周りを見てよ！ オレだけを見てよ！ ドラマの見過ぎもたいがいにしてよ！！
+
+個人的にこのガレージ的な場所から真っ白の空間に切り替わる映像演出… 好きです👍
+
 [目次へ](#目次)
 
 ### 2017年2月9日・16日 小関舞＆梁川奈々美の浅草散策！ 配信 {#section-2017-2-9_16}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 日本文化体験！ ](https://www.youtube.com/watch?v=J6aZeMYP-vU&t=3m1s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 懐かしの給食体験！ ](https://www.youtube.com/watch?v=LpD1gbQEjyk&t=25m20s){:target="_blank"}
 
+まいちゃん×やなみんです💙💜！！！ 実はね！ ここ同い年コンビなんです！
+
+お着物体験をするんですけども、、可愛い、、、美しい！！！ 相変わらずやなみんがめっちゃしゃべってめっちゃ笑ってます笑
+
+この2人は私のイメージだと、毎週日曜24:30から放送されていた**只今ラジオ放送中！**という番組の伝説のコーナー「ひな壇への道」でずーっと先攻争いをしていたイメージがあります笑
+
 [目次へ](#目次)
 
 ### 2017年2月11日 里田まい×カントリー・ガールズ 全員集合！ 配信 {#section-2017-2-11}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 里田まい×カントリー・ガールズ　全員集合！ ](https://www.youtube.com/watch?v=joeKwtqDw1A){:target="_blank"}
 
+こちらもエモい映像となっております。カントリー・ガールズの**スーパーバイザー**✨里田まいさんとの共演！！！
+
+般若心経を唱える結とやなサックスを披露するやなみん笑<small>（🐸の歌だ！）</small>
+
+2年前の初顔合わせのころの映像と照らし合わせるともう全然違います！ メンバーからのももち先輩の苦情みたいなものも里田まいさんに告発したり笑
+
 [目次へ](#目次)
 
 ### 2017年4月9日 カントリー・ガールズ DVD MAGAZINE Vol.5～6 発売 {#section-2017-4-9}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ピーナッツバタージェリーサンド作りに挑戦！ CM ](https://www.youtube.com/watch?v=C6j5XjWUssY){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> ライブツアー2016冬（11月5日新宿ReNY公演舞台裏） CM ](https://www.youtube.com/watch?v=Hb1FLHOVUwE){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ピーナッツバタージェリーサンド作りに挑戦！（Vol.5） CM ](https://www.youtube.com/watch?v=C6j5XjWUssY){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ライブツアー2016冬（11月5日新宿ReNY公演舞台裏）（Vol.6） CM ](https://www.youtube.com/watch?v=Hb1FLHOVUwE){:target="_blank"}
 
 [目次へ](#目次)
 
