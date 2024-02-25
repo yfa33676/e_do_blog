@@ -86,6 +86,7 @@
   - [2023年9月10日 Hello! Project 25th ANNIVERSARY CONCERT（国立代々木競技場・第一体育館）](#section-2023-9-10)
 
 ### [2024年](#section-2024)
+  - [2024年XX月XX日 …](#section-2024-XX-XX)
 
 ---
 
@@ -1165,6 +1166,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 ## 2024年 {#section-2024}
 
+### 2024年XX月XX日 ... {#section-2024-XX-XX}
 ・・・
 
 [目次へ](#目次)
