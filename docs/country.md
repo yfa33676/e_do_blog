@@ -810,11 +810,21 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 ### 2017年4月9日～5月20日 カントリー・ガールズ コンサートツアー2017春～ももちイズム～<small>※ 2017年4月29日～5月14日 ライブツアー</small> {#section-2017-4-9_5-20}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズからのお知らせ&Rec映像 ](https://www.youtube.com/watch?v=El42ovxg4VY&t=3m10s){:target="_blank"}
   * アイドル卒業注意事項
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「アイドル卒業注意事項」（中野サンプラザ） ](https://www.youtube.com/watch?v=WEraq15NxSQ&t=33m13s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「愛おしくってごめんね」（中野サンプラザ） ](https://www.youtube.com/watch?v=-zL_BCApmOI&t=11m58s){:target="_blank"}
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「アイドル卒業注意事項」（中野サンプラザ） ](https://www.youtube.com/watch?v=WEraq15NxSQ&t=33m12s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 嗣永桃子「ももち！ずっとおとももち」（中野サンプラザ）](https://www.youtube.com/watch?v=UvTUR48KY90&t=19m12s){:target="_blank"}
 
 さあ、ついに始まりましたコンサートツアー **ももちイズム** です！
+
+ここである仕掛けがありました。4月26日に配信されたハロ！ステにてカントリーからお知らせがありました。
+
+> 5月4日中野サンプラザ公演から新曲を披露します！ タイトルは「アイドル卒業注意事項」です！ 
+
+ということで、ももち先輩以外の5人のメンバーのレコーディング映像が始まります。そして、
+
+> ここで会場に来て下さるお願いがあります！ 最後のサビの部分をみなさんに覚えて頂いて一緒にももち先輩に届けたいと思います！！！
+
+そう！ 「アイドル卒業注意事項」はももち先輩へのサプライズだったのです！！ それが6月21日に発売された「嗣永桃子アイドル15周年記念アルバム♡ありがとう おとももち♡」に実際に収録されました。最後アカペラで客席全員と歌うところがありますが、当時のファンたちは事前に練習してきてたわけなんですね😭
 
 [目次へ](#目次)
 
