@@ -85,6 +85,8 @@
 ### [2023年](#section-2023)
   - [2023年9月10日 Hello! Project 25th ANNIVERSARY CONCERT（国立代々木競技場・第一体育館）](#section-2023-9-10)
 
+### [2024年](#section-2024)
+
 ---
 
 ## 2014年 {#section-2014}
@@ -1160,5 +1162,9 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 ## 2023年 {#section-2023}
 ### 2023年9月10日 Hello! Project 25th ANNIVERSARY CONCERT（国立代々木競技場・第一体育館） {#section-2023-9-10}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小関舞・稲場愛香「恋泥棒」](https://www.youtube.com/watch?v=HrSvNkdYYnQ&t=3m31s){:target="_blank"}
+
+## 2024年 {#section-2024}
+
+・・・
 
 [目次へ](#目次)
