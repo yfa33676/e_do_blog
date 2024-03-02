@@ -15,29 +15,8 @@
 * [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](docs/MSMW2023.md)
 * [M-line Music LIVE映像 M-line Special 2024～Many well wishes～](docs/MSMW2024.md)
 * [Bitter & Sweet LIVE映像](docs/bittersweet.md)
-  * Bitter & Sweet Summer Live 2021
-  * Bitter & Sweet 8th Anniversary LIVE 2021
-  * Bitter & Sweet Winter Live 2022
-  * Bitter & Sweet Spring Live 2022
-  * Bitter & Sweet Summer Live 2022
-  * Bitter & Sweet Autumn Live 2022
-  * 田﨑あさひ ソロデビュー 10th Anniversary Bitter & Sweet Winter Live 2023
-  * Bitter & Sweet メジャーデビュー 6周年記念 LIVE 2023
-  * Bitter & Sweet わた雪TOUR 2023～凱旋するよ！～
-  * Bitter & Sweet Winter Live 2024～New Year～
 * [宮本佳林 LIVE映像](docs/karin.md)
-  * アメジスト
-  * ダリア
-  * アマリリス
-  * 悪嬢転生
-  * ヒトリトイロ
-  * 悪嬢転生 リニューアル公演
-  * Hello! Brand new me
 * [小片リサ LIVE映像](docs/risa.md)
-  * bon voyage!
-  * Coeur à Coeur
-  * \- Mi RooM \-
-  * éclatant
 
 ## リンク
 
