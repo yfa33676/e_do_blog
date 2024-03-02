@@ -55,6 +55,7 @@ description :
 ### Bitter & Sweet Winter Live 2024～New Year～
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記](https://www.youtube.com/watch?v=IoF3qYSecSM&t=25m50s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「泣いて 泣いて 恋してる」](https://www.youtube.com/watch?v=MeUJgeeFOOw&t=21m40s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「恋愛WARS」](https://www.youtube.com/watch?v=hDkrX2T-dYI&t=24m2s){:target="_blank"}
 
 ## 関連リンク
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
