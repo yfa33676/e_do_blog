@@ -10,3 +10,5 @@ twitter:
   username: e_do_kiriko
   card: summary
 locale : JA
+plugins:
+  - jekyll-sitemap
