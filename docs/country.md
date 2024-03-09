@@ -14,13 +14,13 @@
   - [2015年1月2日～2月15日 Hello! Project 2015 WINTER ～DANCE MODE！～](#section-2015-1-2_2-15)
   - [2015年3月25日 1stシングル「愛おしくってごめんね／恋泥棒」発売！！](#section-2015-3-25)
   - [2015年5月2日・3日 Juice=Juice 中野サンプラザ公演 オープニングアクト！](#section-2015-5-2_3)
-  - [2015年5月16日 Hello! Project New Fes！2015（渋谷公会堂）](#section-2015-5-16})
+  - [2015年5月16日 Hello! Project New Fes！2015（渋谷公会堂）](#section-2015-5-16)
   - [2015年8月5日 2ndシングル「わかっているのにごめんね／ためらいサマータイム」発売！！！](#section-2015-8-5)
   - [2015年7月11日～8月29日 Hello! Project 2015 SUMMER 〜DISCOVERY・CHALLENGER〜](#section-2015-7-11_8-29)
   - [2015年7月19日～8月28日 カントリー・ガールズライブツアー2015](#section-2015-7-19_8-28)
   - [2015年8月21日～2016年1月22日 アナタのための音楽用語講座（講師：たいせい 生徒：カントリー・ガールズ） 配信](#section-2015-8-21_2016-1-22)
   - [2015年10月13日 カントリー・ガールズ DVD MAGAZINE Vol.1 発売](#section-2015-10-13)
-  - [2015年10月13日～12月9日 カントリー・ガールズライブツアー2015 秋冬（1周年記念 ＆ 嗣永桃子復活祭 ＆ やなふな加入！！）](#section-2015-10-13_12-9)
+  - [2015年10月13日～12月9日 カントリー・ガールズライブツアー2015 秋冬](#section-2015-10-13_12-9)
   - [2015年12月9日 新メンバープロフィール！](#section-2015-12-9)
 
 ### [2016年](#section-2016)
@@ -119,7 +119,7 @@
 
 * <big>**カントリー・ガールズ**</big>
 
-が発表されます。ちぃちゃんも世界に羽ばたいてますわ😭
+が発表されます。「世界に通用するグループに成長するように」という思いを込められて付けられました<small>（ちぃちゃんも世界に羽ばたいてますわ😭）</small>。
 
 そして、これだけではありません。カントリー・ガールズのプレイングマネージャー（PM）として、
 
@@ -127,7 +127,7 @@
 
 参加！！！！！ Berryz工房の活動休止を2015年3月に控えたももち先輩がここでカントリーのPMとして参加するわけですね。
 
-[目次へ](#目次)
+<big><i class="fa-solid fa-square-caret-left"></i> [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2014-12-31)</big>
 
 ### 2014年12月31日 Hello! Project COUNTDOWN PARTY 2014 ～ GOOD BYE & HELLO ! ～ {#section-2014-12-31}
 
@@ -135,7 +135,7 @@
 
 初披露です！ そうなのです、初披露はカウコンだったのです。初々しい。。。まなかんも額を出していて貴重！！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2014-11-5) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-1-2_2-15)</big>
 
 ---
 
@@ -146,9 +146,9 @@
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「愛おしくってごめんね」（中野サンプラザ） <small>（※ 新年のご挨拶）</small>](https://www.youtube.com/watch?v=2kyZtphd2Zg&t=9m11s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズメジャーデビュー発表！ ](https://www.youtube.com/watch?v=UXxGLTbUqEE&t=9m28s){:target="_blank"}
 
-「ごめんね！」で照れるうたちゃんかわ。。はい、、当時の予定では1月末にインディーズシングルとして発売予定だったんですね。
+「ごめんね！」で照れるうたちゃんかわ。。はい、、当初の予定では1月末にインディーズシングルとして発売予定だったんですね。
 
-これも奇跡的な何かなのですが、ある東京公演で舞ちゃんがインフルエンザでお休みをします。そこで、われらがPM！ももち先輩が前日夜に急遽ダンスを憶えて<small>（Berryz工房としても出演するわけですからマジですごい！）</small>
+これも奇跡的な何かなのですが、ある公演で舞ちゃんがインフルエンザでお休みをします。そこで、われらがPM！ももち先輩が前日夜に急遽ダンスを憶えて<small>（Berryz工房としても出演するわけですからマジですごい！）</small>
 
 * **嗣永桃子、山木梨沙、稲場愛香、森戸知沙希、島村嬉唄**
 
@@ -162,7 +162,7 @@
 
 「愛おしくってごめんね／恋泥棒」の両A面シングルでした。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2014-12-31) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-3-25)</big>
 
 ### 2015年3月25日 1stシングル「愛おしくってごめんね／恋泥棒」発売！！ {#section-2015-3-25}
 
@@ -181,7 +181,7 @@
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「愛おしくってごめんね」（大阪 千里セルシー） ](https://www.youtube.com/watch?v=vU6I8fVYeok&t=9m32s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「恋泥棒」（CLUB CITTA'） ](https://www.youtube.com/watch?v=zMijuxsDEUA&t=26m5s){:target="_blank"}
 
-メジャーデビューに合わせて発売記念イベントです！ 新曲だけではなくカントリー娘。の楽曲も披露してました。限られた時間の中で本当にもう敬意しかありません。。感謝です。。
+メジャーデビューに合わせて発売記念イベントです！ 新曲だけではなくカントリー娘。の楽曲も披露してました。限られた時間の中でたくさん憶えたわけです、、すごい、、感謝です。。
 
 そして、お馴染みダンサー／コレオグラファー
 
@@ -189,7 +189,7 @@
 
 が登場します！ もうね、、本当にお世話になっております。。。ありがとうございます。。。これ以降もたくさんダンスレッスンの映像がありますが、最後まで木下菜津子先生です！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-1-2_2-15) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-5-2_3)</big>
 
 ### 2015年5月2日・3日 Juice=Juice 中野サンプラザ公演 オープニングアクト！ {#section-2015-5-2_3}
 
@@ -197,9 +197,9 @@
 
 Juice=Juiceが**初のホールコンサート**を2015年5月2日・3日に中野サンプラザで開きまして、そのときカントリー・ガールズがオープニングアクトをしているんですね。いやあ、歴史を感じます。。
 
-Juiceはこの公演で2016年に**武道館公演**をするために全国のライブハウスを**220公演**するというあの伝説の「220（ダブル・ツー・オー）」というミッションを発表します。その場にカントリーがいたんですね。。いやあ、、すごい。。
+Juiceはこの公演で2016年に**武道館公演**をするために全国のライブハウスを**220公演**するというあの伝説の「**220**<small>（ダブル・ツー・オー）</small>」というミッションを発表します。その場にカントリーがいたんですね。。いやあ、、すごい。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-3-25) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-5-16)</big>
 
 ### 2015年5月16日 Hello! Project New Fes！2015（渋谷公会堂） {#section-2015-5-16} 
 
@@ -215,7 +215,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 いまやM-lineで**小片リサ・稲場愛香・小関舞**はMi RooMチームとして一緒にいることが多いわけですけども、このときに同じステージに立っていて、、ああ、、いとえもし。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-5-2_3) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-8-5)</big>
 
 ### 2015年8月5日 2ndシングル「わかっているのにごめんね／ためらいサマータイム」発売！！！ {#section-2015-8-5}
 
@@ -248,11 +248,11 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 これすごい！！ **ヴィーナスフォート**の**教会広場**！ お馴染みですよね🥰 教会の扉が開いて、🫶を描く梨沙ちゃんとまなかんが現れるという。。。すごい演出！
 
-改めてですけどBメロで縦一列になったあと、ちぃちゃんがくるっと後ろを振り返りおぜちぃを向き合わせる振り付けを考えた方…
+改めてBメロで縦一列になったあと、ちぃちゃんがくるっと後ろを振り返りおぜちぃを向き合わせる振り付けを考えた方…
 
 <big>👍</big>
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-5-16) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-7-11_8-29)</big>
 
 ### 2015年7月11日～8月29日 Hello! Project 2015 SUMMER 〜DISCOVERY・CHALLENGER〜 {#section-2015-7-11_8-29}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「わかっているのにごめんね」(日本特殊陶業市民会館) ](https://www.youtube.com/watch?v=BvauQt6xxMc&t=7m57s){:target="_blank"}
@@ -262,9 +262,9 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 > はぁー 疲れたー 私も年をとったわね 昔は歌って踊って走り回っても平気だったのにねぇ そう この子たちのように
 
-からの、わかごめイントロ！ ハロコンなので新曲衣装なのもいいですよね～。ためサマの花冠？と白衣装めっちゃ好き🥰
+という台詞！ からの、わかごめイントロ！ ハロコンなので新曲衣装なのもいいですよね～。ためサマの花冠？と白衣装めっちゃ好き🥰
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-8-5) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-7-19_8-28)</big>
 
 ### 2015年7月19日～8月28日 カントリー・ガールズライブツアー2015 {#section-2015-7-19_8-28}
 
@@ -284,11 +284,11 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 あともう、これはエモすぎるので入れちゃいましたけど、このツアーには**つばきファクトリー**がフレッシュアクトとして帯同しております。**夢見る15歳**だったんですね！
 
-**広島CLUB QUATTRO**というとですね、、2023年のM-line Specisalで舞ちゃん、まなかん、りさまるが再び集まっているんですよ、、えーだから**8年越し**に？ M-line Specialって全国のライブハウス回ったり懐かしい曲を披露したりするので、きっとメンバーにとってもファンにとっても、何でしょう、懐かしいことがたくさんあるんですよね。
+**広島CLUB QUATTRO**というとですね、、2023年のM-line Specisalで舞ちゃん、まなかん、りさまるが再び集まっているんですよ、、**8年越し**！ M-line Specialって全国のライブハウス回ったり懐かしい曲を披露したりするので、きっとメンバーにとってもファンにとっても、何でしょう、懐かしいことがたくさんあるんですよね。
 
 あるいは私なんかもそうなんですけど、まだ2015年には間に合っていない身としては、過去の映像を見て憧れだった場所にこういうかたちで行くことができたりして、すごく夢が叶ったような体験ができていて、、ありがたいです。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-7-11_8-29) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-8-21_2016-1-22)</big>
 
 ### 2015年8月21日～2016年1月22日 アナタのための音楽用語講座（講師：たいせい 生徒：カントリー・ガールズ） 配信 {#section-2015-8-21_2016-1-22}
 * [<i class="fa-lg fa-brands fa-youtube"></i> レコーディングスタジオ編（前編）](https://www.youtube.com/watch?v=DWRdsgXQcEM&t=28m20s){:target="_blank"}
@@ -321,7 +321,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 めちゃめちゃ勉強になるのよ！ 
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-7-19_8-28) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-10-13)</big>
 
 ### 2015年10月13日 カントリー・ガールズ DVD MAGAZINE Vol.1 発売 {#section-2015-10-13}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 富士急ハイランドで遊ぼう！ CM](https://www.youtube.com/watch?v=Xg5ZB8pLBME){:target="_blank"}
@@ -330,11 +330,13 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 > 乱暴なんですよ！ すごいあいつが！ なんだっけ？ 名前？ FUJIYAMA？
 
-って、FUJIYAMAにキレてるのとか笑 即興ソング「**君と二人で遊園地**」も聴けます👍 観覧車で舞ちゃんとまなかんが乗ってるのも改めてエモいですよね。。まなまいですよ。。この2人が8年後にバスツアーを開くのですから。。
+って、FUJIYAMAにキレてるのとか笑
 
-[目次へ](#目次)
+即興ソング「**君と二人で遊園地**」も聴けます👍 観覧車で舞ちゃんとまなかんが乗ってるのも改めてエモいですよね。。まなまいですよ。。この2人が8年後にバスツアーを開くのですから。。
 
-### 2015年10月13日～12月9日 カントリー・ガールズライブツアー2015 秋冬（1周年記念 ＆ 嗣永桃子復活祭 ＆ やなふな加入！！） {#section-2015-10-13_12-9} 
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-8-21_2016-1-22) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-10-13_12-9)</big>
+
+### 2015年10月13日～12月9日 カントリー・ガールズライブツアー2015 秋冬 {#section-2015-10-13_12-9} 
 * [<i class="fa-lg fa-brands fa-youtube"></i> 裏側編(横浜Bay Hall)](https://www.youtube.com/watch?v=Q0268hJpxNk&t=5m47s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「二人の北海道」(横浜Bay Hall) ](https://www.youtube.com/watch?v=INFWNZCYoVU&t=25m8s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 新メンバー加入発表！(新宿ReNY) ](https://www.youtube.com/watch?v=guTOhsKqmEs&t=0m21s){:target="_blank"}
@@ -366,22 +368,27 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 が加入！！！！ **やなふな**ですよ。。。やなみんの子役感も全開だし、ふなちゃんはまだ人見知りしてる感じですね。。
 
-**キスより先にできること**、**妄想リハーサル** は2015秋冬で初披露だったんですよね。
+そして！ 新曲！
 
-[目次へ](#目次)
+* **キスより先にできること**
+* **妄想リハーサル** 
+
+が2015秋冬で初披露です！！
+
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-10-13) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-12-9)</big>
 
 ### 2015年12月9日 新メンバープロフィール！ {#section-2015-12-9}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 新メンバープロフィール！](https://www.youtube.com/watch?v=3lrMCnvjbK4&t=13m46s){:target="_blank"}
   * 「梁川奈々美」プロフィール映像 
   * 「船木結」プロフィール映像 
 
-さあ！というわけで、**やなふな**💛💜が加入しました！！👍 しかし、初期のやなみんは最大級にら行が出てないですね笑 かわいい。結はもうこのときすでになめ茸ごはんが好きな話をしています！ ２人とも憧れの先輩に**宮本佳林**ちゃんをあげているんですね。。やなみんはそれを言っている印象あるんすけど、そうか、結もだったんすね。
+さあ！というわけで、**やなふな**💛💜が加入しました！！👍 初期のやなみんは最大級にら行が出てないですね笑 かわいい。結はもうこのときすでになめ茸ごはんが好きな話をしています！ ２人とも憧れの先輩に**宮本佳林**ちゃんをあげているんですね。。やなみんはそれを言っている印象あるんすけど、そうか、結もだったんすね。
 
 いま、その佳林ちゃんと舞ちゃんがM-lineで大活躍をしていると思うと、、、グッときますわ。。。
 
 後に語られるように当時のやなふなはかなり**バチバチ**🔥です。。どうなっちゃうのでしょうか。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-10-13_12-9) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-1-2_2-20)</big>
 
 ---
 
@@ -401,7 +408,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 結果的にはやなみんが歌い出しの台詞を担当することになりましたね。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-12-9) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-1-28_2-4)</big>
 
 ### 2016年1月28日・2月4日 梁川奈々美、船木結のパワースポットを目指す江ノ島散歩 配信 {#section-2016-1-28_2-4}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 弁財天仲見世通り・江島神社](https://www.youtube.com/watch?v=a2ZcLaWe5x8&t=4m42s){:target="_blank"}
@@ -417,7 +424,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 はい。これが後に語り継がれる「逆に聞くけど結は？」事件です。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-1-2_2-20) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-2-25_3-3)</big>
 
 ### 2016年2月25日・3月3日 稲場愛香＆森戸知沙希の大宮散策！ 配信 {#section-2016-2-25_3-3}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 氷川神社編 ](https://www.youtube.com/watch?v=ipCBYb9qvWs&t=3m30s){:target="_blank"}
@@ -430,9 +437,9 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * 2022年5月30日 Juice=juice
 * 2022年6月20日 モーニング娘。'22
 
-をそれぞれ卒業します。その半年ほど前にもGYAO!の企画「ONE×ONE（ワンバイワン）」でデートをしておりました🥰 などなど、この2人もまたお互いの道を歩きながらそこはかとなくつながっていて、、まもなく、同じステージに立つ機会があるので、、もう、とても楽しみなのです。。
+をそれぞれ卒業します。その半年ほど前にもGYAO!の企画「ONE×ONE（ワンバイワン）」でデートをしておりました🥰 などなど、この2人もまたお互いの道を歩きながらそこはかとなくつながっていて、、まもなく同じステージに立つ機会があるので、、もう、とても楽しみなのです。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-1-28_2-4) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-3-9)</big>
 
 ### 2016年3月9日 3rdシングル「ブギウギLOVE／恋はマグネット／ランラルン～あなたに夢中～」発売！！！ {#section-2016-3-9}
 #### ミュージックビデオ
@@ -461,11 +468,11 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
   * 山木梨沙
   * 稲場愛香
 
-3rdシングルです！ 名曲ですね。ブギウギ、恋マグ、ランラルンの3曲です。やなふなの印象も強いですが、結構まなかんのイメージもありますよね。恋マグはお姉さんチーム（ももち先輩、梨沙ちゃん、まなかん）が中心の歌割りになっていて、1st、2ndに比べてグッと大人っぽい印象になっております。恋マグのクールで大人っぽい曲調は今でも繰り返し歌われるほど人気ですよね。
+3rdシングルです！ 名曲ですね。ブギウギ、恋マグ、ランラルンの3曲です。やなふなの印象も強いですが、結構まなかんのイメージもありますよね。恋マグはお姉さんチーム<small>（ももち先輩、梨沙ちゃん、まなかん）</small>が中心の歌割りになっていて、1st、2ndに比べてグッと大人っぽい印象になっております。恋マグのクールで大人っぽい曲調は今でも繰り返し歌われるほど人気ですよね。
 
 それぞれMV撮影の裏側があります。個人的にはランラルンのMVがめちゃめちゃ大好きで、なんというのでしょうね、、モダンな西洋風で絵本の世界のような、、、ハットと蝶ネクタイのやなふなちぃも可愛い🥰
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-2-25_3-3) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-3-19_20)</big>
 
 ### 2016年3月19日・20日 Hello! Project ひなフェス 2016（パシフィコ横浜） {#section-2016-3-19_20}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」](https://www.youtube.com/watch?v=_x6IzhQyzE0&t=15m8s){:target="_blank"}
@@ -476,13 +483,13 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 > ひな～🎤 <br> ＼＼ふぇーす／／ <br> ひな～🎤 <br> ＼＼ふぇーす／／
 
-というひなフェスコールがあり、ちょっとでも声が小さいと・・・
+というひなフェスコールがあります！ ちょっとでも声が小さいと・・・
 
 > 結「ちょまてまてまて！ もっと声出さなあかんやろ！」 <br> やな「もう～ふなちゃんったらお下品ですわ」
 
 という尊いやり取りがございます👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-3-9) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-3-25)</big>
 
 ### 2016年3月25日 カントリー・ガールズ DVD MAGAZINE Vol.2 発売 {#section-2016-3-25}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 雪遊び・スキーに挑戦！！ CM ](https://www.youtube.com/watch?v=kg7QXetpPxs){:target="_blank"}
@@ -493,7 +500,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 こちらの発売日は演劇女子部「気絶するほど愛してる！」の初日公演日ですね。というわけで、詳しくはそちらで。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-3-19_20) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-3-25_4-3)</big>
 
 ### 2016年3月25日～4月3日 演劇女子部「気絶するほど愛してる！」 {#section-2016-3-25_4-3}
 
@@ -511,14 +518,16 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 改めて**カントリー**と**つばき**は初期のころに結構交流があったんだな～と。ここに **Mi RooM**<small>（小片リサ、稲場愛香、小関舞）</small>が揃っているわけですからね。
 
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-3-25) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-5-14)</big>
+
 ### 2016年5月14日 カントリー・ガールズ DVD MAGAZINE Vol.3 発売 {#section-2016-5-14}
 * [<i class="fa-lg fa-brands fa-youtube"></i> みんなでカレー作り！！ CM ](https://www.youtube.com/watch?v=UZSUPRoyjhA){:target="_blank"}
 
-やなふな加入して半年ですけども、もう、完全にやなふな完成しました👍 みんな可愛いメンバーカラーのエプロンを身にまとい、最後颯爽と現れたのが
+やなふな加入して半年ですけども、もう、完全にやなふな完成しました👍 みんな可愛いメンバーカラーのエプロンを身に付けて次々と現れます。そして、最後に現れたのが…
 
 > **お母さんです**
 
-お母さんです。エプロンではなく割烹着を着たやなみん。モノボケでもふなちゃんは爆発的に活躍！
+お母さんです。エプロンではなく割烹着を着たやなみん。一方ふなちゃんはモノボケで大活躍！！
 
 カントリーメンバーのみんなが🍛をあ～んって食べさせてくれます🥄 あざかわまなかんが圧倒的に優勝しております👍
 
@@ -526,7 +535,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 こちらのDマガは「ライブツアー 2016春夏」の会場で売られていたみたいですね。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-3-25_4-3) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-5-14_6-30)</big>
 
 ### 2016年5月14日～6月30日 カントリー・ガールズ ライブツアー 2016春夏 {#section-2016-5-14_6-30}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアーリハーサル・新曲ダンスレッスン ](https://www.youtube.com/watch?v=sObdiFqErc4&t=33m19s){:target="_blank"}
@@ -547,7 +556,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 * **VIVA!!薔薇色の人生**
 * **リズムが呼んでいるぞ！**
 
-が初披露です！！！ 「VIVA」はカントリーにとってどんどん大切な曲になりましたね。
+が初披露です！！！ **VIVA**はカントリーにとってどんどん大切な曲になりましたね。
 
 > 困難 荒波 大歓迎 私なら大丈夫です！ 薔薇色の人生
 
@@ -561,14 +570,11 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 あとこの振り付けもマジで素晴らしいのですけど、最後の間奏でやなふながアルプス一万尺をするんですね、、向き合ってて遊びをする、、それを暖かく見守るメンバーたち、、、😭
 
-そして、「リズム」ですよ！！ これがまー楽しい！！ この曲は客席とステージの間でリズムで遊ぶところがありまして、ライブ毎にいろいろ変わるんですよ。たとえば、Buono!ライブでゲスト出演したときには、雅ちゃんぽく、愛理ちゃんぽく、ももち先輩っぽくやったり。
+そして、**リズム**ですよ！！ これがまー楽しい！！ この曲は客席とステージの間でリズムで遊ぶところがありまして、ライブ毎にいろいろ変わるんですよ。たとえば、Buono!ライブでゲスト出演したときには、雅ちゃんぽく、愛理ちゃんぽく、ももち先輩っぽくやったり。
 
 今ではMSMW<small>（M-line Special）</small>での定番にもなっていてですね、佳林ちゃんやりさまるにもリズムを仕掛けてめちゃめちゃ新しい展開になっております👍
 
-ちぃちゃん耳真っ赤～
-
-
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-5-14) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-6-23_30)</big>
 
 ### 2016年6月23日・30日 森戸知沙希＆小関舞が横須賀から千葉へ！ 配信 {#section-2016-6-23_30}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 横須賀を大満喫！編](https://www.youtube.com/watch?v=gcg5czOrOX8&t=2m18s){:target="_blank"}
@@ -582,7 +588,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 この関係性がですね、、2024年今現在でも続いているんですよ。。。おぜちぃ👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-5-14_6-30) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-7-16_9-3)</big>
 
 ### 2016年7月16日～9月3日 Hello! Project 2016 SUMMER 〜 Sunshine Parade 〜・〜 Rainbow Carnival 〜 {#section-2016-7-16_9-3}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「リズムが呼んでいるぞ！」(ニトリ文化ホール) ](https://www.youtube.com/watch?v=7anubT3gcR0&t=20m58s){:target="_blank"}
@@ -590,9 +596,9 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 2016夏のハロコンですね。リズムもここで披露してたんだ！ そして、9月28日に発売をひかえているニューシングル「どーだっていいの」もハロコン初披露ですね。ハロコン初披露だと新曲衣装での映像が残るからいいですよね🥰
 
-「どーだっていいの」もまた50年代的な曲調ですが、「ブギウギLOVE」の衣装が3色<small>（ももち先輩・梨沙ちゃん・まなかん、おぜちぃ、やなふな）</small>で分かれていたのと違って、全員メンバーカラーの衣装になっております。もう私もファッション的なこと全然分からないですけど、オードリー・ヘップバーン的な？ローマの休日的な？雰囲気のいい感じのファッションですよね～
+「どーだっていいの」もまた50年代的な曲調ですが、「ブギウギLOVE」の衣装が3色<small>（ももち先輩・梨沙ちゃん・まなかん、おぜちぃ、やなふな）</small>で分かれていたのと違って、全員メンバーカラーの衣装になっております。もう私もファッション的なこと全然分からないですけど、オードリー・ヘップバーン的な？ローマの休日的な？雰囲気のいい感じのファッション！ 好き！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-6-23_30) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-7-20_8-10)</big>
 
 ### 2016年7月20日～8月10日 カントリー・ガールズの歴史のお時間 {#section-2016-7-20_8-10}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 第１回 ](https://www.youtube.com/watch?v=GHxtRbc8B5A&t=29m27s){:target="_blank"}
@@ -614,16 +620,16 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 よいです。。バンバンとクイズに答えるやなみん、「やっちまった」結ちゃん。。いい感じの対比が見られます。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-7-16_9-3) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-9-24)</big>
 
 ### 2016年9月24日 カントリー・ガールズ DVD MAGAZINE Vol.4 発売 {#section-2016-9-24}
 * [<i class="fa-lg fa-brands fa-youtube"></i> マザー牧場にやって来た！ CM ](https://www.youtube.com/watch?v=mDwT2vDERgs){:target="_blank"}
 
 これも大好き！ カントリーのメンバーが🐄🐑🐎🐖とたわむれます👍
 
-ついに**山木嬢**✨の乗馬もご披露されます！
+ついに**山木嬢**✨の乗馬もご披露されます！ 梨沙ちゃんはお嬢様キャラなわけですけども、決して謙遜することなくむしろ全乗っかりです👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-7-20_8-10) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-9-28)</big>
 
 ### 2016年9月28日 4thシングル「どーだっていいの／涙のリクエスト」発売！！！ {#section-2016-9-28}
 #### 新曲告知！
@@ -657,19 +663,15 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 さあ！！！ 4枚目のニューシングル「どーだっていいの／涙のリクエスト」です！！！
 
-「どーだっていいの」MVいいですよね～ ひとつのスタンドマイクをめぐってメンバーが入れ代わり立ち代わりカメラに迫る感じ！ めっちゃ大好き！
+「どーだっていいの」MVいいですよね～ ひとつのスタンドマイクを中心にメンバーが入れ代わり立ち代わりカメラに迫る感じ！ めっちゃ大好き！
 
-たしかあれですよね、結ちゃんはおたふくかぜ明けでちょっとふっくらしてるんですよね笑<small>（『大全集①』でたしかその話がありました）</small> やなみんが八の字まゆで割り箸でシンバルを叩いていたり笑 楽しい！！！
+たしかあれですよね、結ちゃんはおたふくかぜ明けでちょっとふっくらしてるんですよね笑 やなみんが八の字まゆで割り箸でシンバルを叩いていたり笑 楽しい！！！
 
-あと個人的に好きなのは卓偉さんのレコーディングですよね。。このシリーズめちゃめちゃ好きです。
-
-> じゃあ、積みます～
-
-と言いながら、どんどんハモリを**積む**卓偉さん。
+あと個人的に好きなのは卓偉さんのレコーディングですよね。。このシリーズめちゃめちゃ好きです。どんどんハモリを**積む**卓偉さん。
 
 > どぅ～だっていいのっほ～🎵
 
-好き。
+好き👍
 
 リリイベの聖地**池袋サンシャイン噴水広場**でもリリイベしてますね～ 発売記念イベントも「派手にジャケットサイン会」「俺の銀のロケットお渡し会」など企画的なこともやっていたんですな。
 
@@ -679,7 +681,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 やなみんといえばサックスなのです。MVもいいですよね🥰 遠近撮影でやなサックスに吸い込まれるメンバーたち笑 スカジャン衣装もめっちゃ可愛い！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-9-24) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2016-10-22_12-11)</big>
 
 ### 2016年10月22日～12月11日 カントリー・ガールズライブツアー 2016冬 {#section-2016-10-22_12-11}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「どーだっていいの」(新宿ReNY) <small>（※ 2016年11月5日 嗣永桃子 卒業発表）</small>](https://www.youtube.com/watch?v=VofUJ97ZTrk&t=8m32s){:target="_blank"}
@@ -690,7 +692,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 さあ！ **カントリー・ガールズ ライブツアー 2016冬** です！
 
-カントリーの結成2周年でもあり、やなふな加入1周年の日は1周年のときと同様**新宿ReNY**でのライブでした！<small>（結成日とやなふな加入日が一緒てのがいいですよね🥰）</small>
+2016年11月5日の公演<small>（カントリー・ガールズ結成2周年 ＆ やなふな加入1周年！）</small>は1年前と同じく**新宿ReNY**でのライブでした！<small>（結成日とやなふな加入日が一緒てのがいいですよね🥰）</small>
 
 ここでももち先輩の卒業発表がありました。
 
@@ -704,7 +706,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 このツアーファイナルは**Zepp Tokyo**でした！ **Zepp Tokyo**もカントリーにとって思い出深い場所になっていきます。ここでの「VIVA」もね、、いい。。どんどん胸に染みてくる。。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-9-28) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-1-2_2-25)</big>
 
 ---
 
@@ -732,15 +734,15 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
 
 > ふなちゃん「は～いふなちゃんいっきま～す！よいしょ～ ひじきのにもにょ！ラブラブ！」
 
-**爆笑３**。リクエストには圧倒的な威力で応えるのがカントリーです。ももち先輩「声ガッサガサだね笑」。さらに、れいれい<small>（井上玲音）</small>から「かっこいいイケメンなのが見たいです」とリクエスト、、ももち先輩「小関舞！」とご指名、、すかさず、
+**爆笑３**。リクエストには全力で応えるのがカントリーです。ももち先輩「声ガッサガサだね笑」。さらに、れいれい<small>（井上玲音）</small>から「かっこいいイケメンなのが見たいです」とリクエスト、、ももち先輩「小関舞！」とご指名、、すかさず、
 
 > 舞ちゃん「俺？ どこ見てんだよ？ お前はさ、、俺だけ見てりゃいいんだよ」
 
 <big>**Foooooooooooooooooooooooooo!!!**</big>
 
-もう何ですか、このグループは！！ 天才ですか？ 最強ですか！？ このあらゆるリクエストに圧倒的な応答をするカントリーメンバーたち。。。頼もしい。。。ももち先輩の教え子たち。。。
+もう何ですか、このグループは！！ 天才ですか？ 最強ですか！？ このあらゆるリクエストをバシバシと打ち返すカントリーメンバーたち。。。頼もしい。。。ももち先輩の教え子たち。。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2016-10-22_12-11) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-2-8)</big>
 
 ### 2017年2月8日 5thシングル「Good Boy Bad Girl／ピーナッツバタージェリーラブ」発売！！！ {#section-2017-2-8}
 #### ミュージックビデオ
@@ -778,7 +780,7 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 
 個人的にこのガレージ的な場所から真っ白の空間に切り替わる映像演出… 好きです👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-1-2_2-25) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-2-9_16)</big>
 
 ### 2017年2月9日・16日 小関舞＆梁川奈々美の浅草散策！ 配信 {#section-2017-2-9_16}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 日本文化体験！ ](https://www.youtube.com/watch?v=J6aZeMYP-vU&t=3m1s){:target="_blank"}
@@ -790,7 +792,7 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 
 この2人は私のイメージだと、毎週日曜24:30から放送されていた**只今ラジオ放送中！**という番組の伝説のコーナー「ひな壇への道」でずーっと先攻争いをしていたイメージがあります笑
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-2-8) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-2-11)</big>
 
 ### 2017年2月11日 里田まい×カントリー・ガールズ 全員集合！ 配信 {#section-2017-2-11}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 里田まい×カントリー・ガールズ　全員集合！ ](https://www.youtube.com/watch?v=joeKwtqDw1A){:target="_blank"}
@@ -801,7 +803,7 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 
 2年前の初顔合わせのころの映像と照らし合わせるともう全然違います！ メンバーからのももち先輩の苦情みたいなものも里田まいさんに告発したり笑
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-2-9_16) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-4-9)</big>
 
 ### 2017年4月9日 カントリー・ガールズ DVD MAGAZINE Vol.5～6 発売 {#section-2017-4-9}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ピーナッツバタージェリーサンド作りに挑戦！（Vol.5） CM ](https://www.youtube.com/watch?v=C6j5XjWUssY){:target="_blank"}
@@ -815,7 +817,7 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 
 の初日です！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-2-11) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-4-9_5-20)</big>
 
 ### 2017年4月9日～5月20日 カントリー・ガールズ コンサートツアー2017春～ももちイズム～<small>※ 2017年4月29日～6月18日 ライブツアー</small> {#section-2017-4-9_5-20}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズからのお知らせ&Rec映像 ](https://www.youtube.com/watch?v=El42ovxg4VY&t=3m10s){:target="_blank"}
@@ -836,7 +838,7 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 
 そう！ 「アイドル卒業注意事項」はももち先輩へのサプライズだったのです！！ それが6月21日に発売された「嗣永桃子アイドル15周年記念アルバム♡ありがとう おとももち♡」に実際に収録されました。最後アカペラで客席全員と歌うところがありますが、当時のファンたちは事前に練習してきてたわけなんですね😭
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-4-9) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-4-29)</big>
 
 ### 2017年4月29日 カントリー・ガールズ DVD MAGAZINE 7 発売 {#section-2017-4-29}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ギリギリグランプリ ＆ 苦手克服企画！ CM ](https://www.youtube.com/watch?v=-Cw2Jb2E68Q){:target="_blank"}
@@ -853,7 +855,7 @@ GBBG<small>（Good Boy Bad Girl）</small>もいい！ わかごめやランラ�
 
 こちらのDマガは「コンサートツアー～ももちイズム～」に合わせて開かれていた「ライブツアー～ももちイズム～」の初日から会場で販売されていたんですね。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-4-9_5-20) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-5-22)</big>
 
 ### 2017年5月22日 Buono!ライブ2017～Pienezza!～（横浜アリーナ） {#section-2017-5-22}
 * [<i class="fa-lg fa-brands fa-youtube"></i> Buono!「初恋サイダー」](https://www.youtube.com/watch?v=ynRhUtOk-Is&t=25m20s){:target="_blank"}
@@ -872,7 +874,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 ℃-uteもですね、、6月12日にSSA<small>（さいたまスーパーアリーナ）</small>でラストライブを控えております。。Buono!、℃-ute、ももち…とおよそ一か月で続々とこう歴史的なライブが開かれるこの時期なんですね。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-4-29) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-6-21_28)</big>
 
 ### 2017年6月21日・28日 嗣永桃子インタビュー 配信 {#section-2017-6-21_28}
 * [<i class="fa-lg fa-brands fa-youtube"></i> インタビューその１](https://www.youtube.com/watch?v=kG7lWlWmMqM&t=14m31s){:target="_blank"}
@@ -895,6 +897,8 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 ももちはきっと何年後も繰り返し繰り返し語り継がれることになるでしょう。。本当に最高のアイドルでした。
 
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-5-22) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-6-26)</big>
+
 ### 2017年6月26日 ハロ！ステ号外 ～ハロー！プロジェクト2017新体制決定スペシャル～ 配信 {#section-2017-6-26}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ハロ！ステ号外 ～ハロー！プロジェクト2017新体制決定スペシャル～](https://www.youtube.com/watch?v=890hhENEH30){:target="_blank"}
 
@@ -906,7 +910,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 という新体制が発表されました。ちぃちゃんはモーニング15期メンバーとして<small>（ひとり加入です）</small>、やなみんは**瑠々ちゃん**<small>（段原瑠々）</small>と一緒にJuice=Juice2期メンバーとして、結ちゃんは**かわむー**<small>（川村文乃）</small>と一緒にアンジュルム6期メンバーとしての加入でした。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-6-21_28) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-6-30_DVD)</big>
 
 ### 2017年6月30日 カントリー・ガールズ DVD MAGAZINE Vol.8 発売 {#section-2017-6-30_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i>メンバ－５人からももち先輩へサプライズパーティー CM ](https://www.youtube.com/watch?v=no4ryUPzPM8){:target="_blank"}
@@ -921,7 +925,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 の会場ということになります。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-6-26) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-6-30_LIVE)</big>
 
 ### 2017年6月30日 嗣永桃子ラストライブ ♡ありがとう おとももち♡（青海野外特設会場） {#section-2017-6-30_LIVE}
 * [<i class="fa-lg fa-brands fa-youtube"></i> バックステージ映像](https://www.youtube.com/watch?v=hHdrLPYQml0&t=7m43s){:target="_blank"}
@@ -969,7 +973,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 最後、いつも立てていた**小指**をそっと下ろします。。🍑😭
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-6-30_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-7-15_9-2)</big>
 
 ### 2017年7月15日～9月2日 Hello! Project 2017 SUMMER 〜 HELLO! MEETING ・ HELLO! GATHERING 〜 {#section-2017-7-15_9-2}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「恋泥棒」（中野サンプラザ）](https://www.youtube.com/watch?v=7z8Ht83XWk0&t=11m25s){:target="_blank"}
@@ -978,7 +982,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 見てください。特にやなみん！！！！ **前髪が！！！！** そうなのです、やなみんは兼任が始まるタイミングで前髪を作るのです。。そこはかとないももちイズムを感じます。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-6-30_LIVE) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-8-11)</big>
 
 ### 2017年8月11日 配信シングル「小生意気ガール」配信！！！ {#section-2017-8-11}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「小生意気ガール」（ショートVer.） ](https://www.youtube.com/watch?v=JfgsdzRo6Bk){:target="_blank"}
@@ -997,7 +1001,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 この映像は夏のハロコンだと思いますが、まだ、やなみんの前髪がありませんね。小生意気ガールのジャケット？アー写もやなみんは前髪はまだありません。分けて前髪ない方が大人っぽくなりがちですが、やなみんはその逆ですよね。前髪があることでグッと大人っぽくなったというか。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-7-15_9-2) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-10-5)</big>
 
 ### 2017年10月5日 カントリー・ガールズ DVD MAGAZINE Vol.9 発売 {#section-2017-10-5}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カレンダー撮影に密着！メイキング風景＆意思疎通ゲーム CM ](https://www.youtube.com/watch?v=eX18aRwKbLk){:target="_blank"}
@@ -1006,7 +1010,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 このね笑 カメラを向けられたときには完全にスイッチはいるカントリーなのです笑 意思疎通ゲームとかね、めちゃめちゃ面白かったな～笑
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-8-11) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-11-6_DVD)</big>
 
 ### 2017年11月6日 カントリー・ガールズ DVD MAGAZINE Vol.10 発売 {#section-2017-11-6_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 初のコンサートツアー＆嗣永桃子ラストツアー完全密着！ CM ](https://www.youtube.com/watch?v=38PUYIpETkk){:target="_blank"}
@@ -1019,7 +1023,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 の公演日ですね👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-10-5) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-11-6_LIVE)</big>
 
 ### 2017年11月6日 カントリー・ガールズ3周年記念イベント～みんな元気してた？～（ディファ有明） {#section-2017-11-6_LIVE}
 * [<i class="fa-lg fa-brands fa-youtube"></i> リハーサル ](https://www.youtube.com/watch?v=yAhxaj6sP_M&t=16m49s){:target="_blank"}
@@ -1069,7 +1073,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 周年ライブはカントリーにとってやなふな加入日というのもあり、必ず単独ライブが開かれる日ということもあって、より一層大事な日になりました。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-11-6_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2017-12-24)</big>
 
 ### 2017年12月24日 配信シングル「書いては消しての “I Love You”」配信！！！ {#section-2017-12-24}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「書いては消しての “I Love You”」(ショートVer.) ](https://www.youtube.com/watch?v=q76CWchc-8k){:target="_blank"}
@@ -1088,7 +1092,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 と聴こえる、というか、もはやそう歌ってる笑 
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-11-6_LIVE) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-2-14_DVD)</big>
 
 ---
 
@@ -1111,8 +1115,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 の日でした！！！
 
-
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2017-12-24) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-2-14_EVENT)</big>
 
 ### 2018年2月14日 CG VD～Sweet Chocolat Night～ {#section-2018-2-14_EVENT}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「わかっているのにごめんね」(新宿ReNY) ](https://www.youtube.com/watch?v=ROQJusqxXiw&t=20m17s){:target="_blank"}
@@ -1160,7 +1163,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 よいです👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-2-14_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-4-6_27)</big>
 
 ### 2018年4月6日～27日 ハロー！プロジェクト20周年企画：グループ兼任の経験者座談会：夏焼雅、森戸知沙希、梁川奈々美 {#section-2018-4-6_27}
 * [<i class="fa-lg fa-brands fa-youtube"></i> Vol.01](https://www.youtube.com/watch?v=o-3dDfO22xg&t=3m52s){:target="_blank"}
@@ -1184,7 +1187,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 兼任が始まってから間もなく1年が経過する、、というときに収録された座談会。たとえば、カントリーの単独をやるときでもリハーサル時間がかなり限られていたこととか、そういう話をたくさん話しております。。ぜひ。。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-2-14_EVENT) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-6-1_22)</big>
 
 ### 2018年6月1日～22日 ハロー！プロジェクト20周年企画：舞台で男役経験のあるメンバー座談会：須藤茉麻、小関舞、小片リサ {#section-2018-6-1_22}
 * [<i class="fa-lg fa-brands fa-youtube"></i> Vol.01](https://www.youtube.com/watch?v=3e86hpV-y6c&t=5m23s){:target="_blank"}
@@ -1207,8 +1210,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
   * 舞台の仕事をしたことで、身についたこと
   * ハロー！プロジェクトあるある
 
-
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-4-6_27) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-6-12_DVD)</big>
 
 ### 2018年6月12日 カントリー・ガールズ DVD MAGAZINE Vol.12 発売 {#section-2018-6-12_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> CG VD〜S.C.N〜（新宿ReNY） CM ](https://www.youtube.com/watch?v=vjhn-zVWd5g){:target="_blank"}
@@ -1236,8 +1238,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 の会場でした！
 
-
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-6-1_22) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-6-12_LIVE)</big>
 
 ### 2018年6月12日 カントリー・ガールズ LIVE2018 ～皆好き(みなづき)！（Zepp Tokyo） {#section-2018-6-12_LIVE}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「ブギウギLOVE」](https://www.youtube.com/watch?v=rnv23npEMOw&t=25m40s){:target="_blank"}
@@ -1258,7 +1259,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 さらに、Zepp Tokyo のビジョンにその歌唱審査の映像も流れていました笑<small>（YouTubeではあえて映っていません）</small>
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-6-12_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-6-13)</big>
 
 ### 2018年6月13日 稲場愛香 Juice=Juice 加入！！ {#section-2018-6-13}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 稲場愛香 今後の活動について](https://www.youtube.com/watch?v=EvX2HS_yUHQ&t=146s){:target="_blank"}
@@ -1275,6 +1276,8 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 そして、まなかんは活動を少しずつ増やしていき、ハロコンなどにも参加するようになり、ついには**Juice=Juice**のメンバーとして加入することになったのです！
 
 この2年間のまなかんが体験した時間を思うと込み上げるものがあります。そして、まなかんというと、あのバッキバキのダンスときゅるっきゅるのあざかわですから！ それはそれは期待されまして、そして、その期待を大きく上回ることなるのは、もうね、、みなさまご存じの通りなのです、、、
+
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-6-12_LIVE) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-8-24)</big>
 
 ### 2018年8月24日 配信シングル「待てないアフターファイブ／傘をさす先輩」配信！！！ {#section-2018-8-24}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「待てないアフターファイブ」（2018年8月5日 中野サンプラザ）](https://www.youtube.com/watch?v=Kcgv3tn9CtA){:target="_blank"}
@@ -1295,7 +1298,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 舞ちゃんというと「しょうがない夢追い人」「泣いちゃうかも」といった切ない曲をソロで歌っているイメージがありまして、、ぴったりなんですよね、、よいです、、
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-6-13) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-11-5_DVD)</big>
 
 ### 2018年11月5日 カントリー・ガールズ DVD MAGAZINE Vol.13 発売 {#section-2018-11-5_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カレンダー撮影密着！＆どっちのトークショー！ CM ](https://www.youtube.com/watch?v=zOc5g5FUm4E){:target="_blank"}
@@ -1324,7 +1327,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 で発売されました！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-8-24) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2018-11-5_LIVE)</big>
 
 ### 2018年11月5日 カントリー・ガールズ4周年記念イベント ～forte～（Zepp Tokyo） {#section-2018-11-5_LIVE}
 * ？
@@ -1357,7 +1360,7 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 カントリー・ガールズは活動の量でいうと少ないのですけど、ひとつひとつの思いが本当に特別で、、濃いのです、、
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-11-5_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-3-11)</big>
 
 ---
 
@@ -1373,21 +1376,21 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
   * 気ままな片想い
   * コメント（卒業公演を終えて）
 
-さあ、、ついに、、やってきてしまいました。。。やなみんの卒業コンサートです。この日までにも、やなふなイベント<small>（なめてないぞ）</small>やバスツアー<small>（なすびガールズ）</small>もありました。
+さあ、、ついに、、やってきてしまいました。。。やなみんの卒業コンサートです。この日までにも、**やなふなイベント**<small>（なめてないぞ）</small>や**バスツアー**<small>（なすびガールズ）</small>もありました。
 
-やな卒もですね、2月14日にZepp Namba、3月11日にZepp Tokyoという2公演というかたちでしたね。
+やな卒も、2月14日にZepp Namba、3月11日にZepp Tokyoという2公演というかたちでしたね。
 
 もうね、、ずーっと笑ってるんですよやなみん😭 おしゃべりで、、ヘラヘラしててさ、、えへへへって、、ああ、やなみんだなーって😭 また、この日のやなみんの笑顔が素敵で可愛くて✨
 
 もうね、、この日のやなふなってのがもう、、、マジで、、
 
-> ふなちゃん「やなみんは涙 今日とっても綺麗だし涙」 <br> やなみん「へへ、ありがとう笑」 <br> ふなちゃん「なんで私より綺麗やねん涙」 <br> やなみん「ごめんね笑 今日はちょっと綺麗かもしんない私のほうが笑」
+> 船ちゃん「やなみんは涙 今日とっても綺麗だし涙」 <br> やなみん「へへ、ありがとう笑」 <br> 船ちゃん「なんで私より綺麗やねん涙」 <br> やなみん「ごめんね笑 今日はちょっと綺麗かもしんない私のほうが笑」
 
 ずーっと泣きじゃくるふなちゃん、そして、ずーっと笑ってるやなみん。。。これなんですよね。。。
 
-やなふなって本当に何でしょうね、、NとSだし、バチバチで競い合って、、😭
+やなふなって本当に何でしょうね、、NとSだし、バチバチで競い合って、、本当に**唯一無二**なんです😭
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2018-11-5_LIVE) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-3-30_31)</big>
 
 ### 2019年3月30日・31日 Hello! Project 20th Anniversary!! Hello! Project ひなフェス 2019（幕張メッセ） {#section-2019-3-30_31}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「妄想リハーサル」](https://www.youtube.com/watch?v=2lMvzHx7hAE&t=19m13s){:target="_blank"}
@@ -1404,14 +1407,14 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 Foo! というコールがめちゃめちゃ楽しい！！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-3-11) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-7-13_9-1)</big>
 
 ### 2019年7月13日～9月1日 Hello! Project 2019 SUMMER 「beautiful/harmony」 {#section-2019-7-13_9-1}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「夏色のパレット」（2019年8月25日 中野サンプラザ） ](https://www.youtube.com/watch?v=GVWFTHXsO6s&t=26m33s){:target="_blank"}
 
 なんというか、2019年の夏って、切なくて寂しい夏だったといいますか、、だからこそ、すごく思い出深いと言いますか、、、
 
-というわけで、カントリー4人体制での新曲**夏色のパレット**の初披露です。夏のハロコンでしたね。
+というわけで、カントリー4人体制での初めての新曲**夏色のパレット**の初披露です。夏のハロコンでしたね。
 
 5人体制と4人体制って、単純なマイナス1ではないんですよね。五角形と四角形といいますか、、幾何学的に違うといいますか、、（語彙）
 
@@ -1425,7 +1428,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 ここも物語上では切ない歌詞なのですけど、おぜちぃが歌ってることでまた別の聴こえ方もしてですね、、
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-3-30_31) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-8-24)</big>
 
 ### 2019年8月24日 配信シングル「One Summer Night〜真夏の決心〜／夏色のパレット」配信！！！ {#section-2019-8-24}
 #### ミュージックビデオ
@@ -1445,9 +1448,9 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 高校3年生の夏、、ですよね、、**最後の夏** というあの切なく寂しいあの感じ、、、これ以上表現されている曲はないのです、、
 
-カントリーにとっても最後の夏なんですよ。。
+しかも、カントリーにとっても最後の夏なんですよ。。
 
-感動ポイントはいくつもあるんですけど、、サクソフォンとか花火とか、、とくにですね、、
+感動ポイントはいくつもあるんですけど<small>（サクソフォンとか花火とか）</small>とくにですね、、
 
 > One Summer Night 今日初めて 柄にもなく夢を語った 「すごいじゃん、そんな未来」 君は驚いた
 
@@ -1475,7 +1478,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 というのも開かれました⭐ このころは夏にかけてカントリーの活動が少しずつ増えてきた印象がありました。
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-7-13_9-1) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-11-5_DVD)</big>
 
 ### 2019年11月5日 カントリー・ガールズ DVD MAGAZINE Vol.14 発売 {#section-2019-11-5_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 築地場外市場の魅力探索ツアー“上級編” CM ](https://www.youtube.com/watch?v=QURwhC9L7uE){:target="_blank"}
@@ -1496,7 +1499,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 でした。夏の第四角形でたしか発表がありましたね🥰
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-8-24) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-11-5_DVD)</big>
 
 ### 2019年11月5日 カントリー・ガールズ結成5周年記念イベント ～Go for the future!!!!～（豊洲PIT） {#section-2019-11-5_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ《楽屋レポート》結成5周年イベント!!!! ](https://www.youtube.com/watch?v=oFHaRI_TnOU){:target="_blank"}
@@ -1516,7 +1519,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 という、ゆかりのある楽曲のメドレーがあったり！
 
-そして、新曲「ずっとずっと」も披露されます！！ なんと作詞・作曲は**つんく♂さん**！！！！
+そして、新曲「**ずっとずっと**」も披露されます！！ なんと作詞・作曲は**つんく♂さん**！！！！
 
 カントリーはカントリー娘。の曲ではつんくさん曲なのですけども、カントリー・ガールズ時代では楽曲提供はなかったんですね。活動休止間近ということで最後の最後つんくさんが作ってくれたわけです。
 
@@ -1526,7 +1529,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 に収録されます👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-11-5_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-12-4)</big>
 
 ### 2019年12月4日 カントリー・ガールズ ベストアルバム『カントリー・ガールズ大全集①』発売！！！！！ {#section-2019-12-4}
 #### CGN～Country Girls News～
@@ -1564,7 +1567,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 インタビュアーは山木梨沙です👍
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-11-5_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-12-20)</big>
 
 ### 2019年12月20日 「tiny tiny」第111回（ゲスト：山木梨沙、小関舞）配信 {#section-2019-12-20}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 2019年12月20日 【tiny tiny#111】ゲスト：カントリー・ガールズ 山木梨沙、小関舞](https://www.youtube.com/watch?v=tWd2lFUEZZA){:target="_blank"}
@@ -1577,7 +1580,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 まいちゃんはですね、、本当に本当に、、優しいのです。。嫌な気持ちにさせないように事前に自ら動くと言いますか、、そういうシーンがたびたびまいちゃんにはありまして、、本当に心が優しいんだなって、、それがまたちぃちゃんに伝わってるんですよね、、
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-12-4) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-12-26_DVD)</big>
 
 ### 2019年12月26日 カントリー・ガールズ DVD MAGAZINE Vol.15 発売 {#section-2019-12-26_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> どっちのトークショー ＆トーク＆パーティー ＆ 思い出ベスト３ CM ](https://www.youtube.com/watch?v=skaMYlN5MBA){:target="_blank"}
@@ -1605,8 +1608,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 このDマガを私たちが最初に見るのは12月26日の最高のライブの後なので、それはそれはもう感動をしました。。
 
-
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-12-20) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2019-12-26_LIVE)</big>
 
 ### 2019年12月26日 カントリー・ガールズライブ2019～愛おしくってごめんね～（LINE CUBE SHIBUYA） {#section-2019-12-26_LIVE}
 * [<i class="fa-lg fa-brands fa-youtube"></i> LIVE映像](https://www.youtube.com/watch?v=8ZrUonTttUk&t=16m53s){:target="_blank"}
@@ -1624,7 +1626,7 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 > HEY HEY COME ON YO HEY 素敵な気分よ RIGHT 本心でマシ～ンをぶちかませ！
 
-というなかなか難しいこの謎RAP笑 私たちカントリーヲタはですね、、めちゃめちゃ完璧にこれを歌い上げるのですが、、この会場ではめちゃめちゃ聞こえます！！ それほどにですね、、このライブはヲタたちにとっても思い入れがものすごいライブだったわけです、、
+というなかなか難しいこの謎RAP笑 私たちカントリーヲタはですね、、めちゃめちゃ完璧にこれを歌い上げます。特にこのライブのコールの声量はすごい！！！ それほどにですね、、このライブはヲタたちにとっても思い入れがものすごいライブだったわけです、、
 
 そして、、アンコールのシーンから映像が配信されていますね、、
 
@@ -1636,34 +1638,37 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 そこで、**気ままな片思い**のイントロとともに現れる素敵なドレスの4人…
 
-ここで私たちの涙腺は崩壊してます、、なんて美しいのか、、、もしかしたらカントリーコールのときに比べてヲタたちの声が小さいように聞こえるかもしれません、、それはみんな泣き崩れているからなのです、、ももち先輩の声も聴こえてくるこの曲・・・
+ここで私たちの涙腺は完全に崩壊してます、、なんて美しいのか、、、もしかしたらカントリーコールのときに比べてヲタたちの声が小さいように聞こえるかもしれません、、それはみんな泣き崩れているからなのです、、ももち先輩の声も聴こえてくるこの曲・・・
 
 あんなに声を出した日はないし、あんなに笑った日もあんなに泣いた日もありません、、でも、ぜんっぜんしんみりじゃなくて、、ああ、**カントリー最高だな！！！**って感じで！
 
 ### ＊
 
-はい、、カントリー・ガールズは2019年12月26日のラストライブをもって活動を休止しました。山木梨沙ちゃんは芸能界を引退しました。ちぃちゃんはモーニング娘。として、船ちゃんはアンジュルムとしてしばらく活動を続けます。船ちゃんは2020年12月9日に武道館にて開かれました
+はい、、カントリー・ガールズは2019年12月26日のラストライブをもって活動を休止しました。メンバーはそれぞれ
 
-* アンジュルム コンサート2020 〜起承転結〜 船木結卒業スペシャル
+* **山木梨沙** 芸能界引退
+* **小関舞** ハロー！プロジェクト卒業（芸能界には残る）
+* **森戸知沙希** モーニング娘。'19 として活動継続
+* **船木結** アンジュルムとして活動継続
 
-にてアンジュルムおよびハロー！プロジェクトを卒業しました。ちぃちゃんは2022年6月20日に同じく武道館にて開かれました
+という道に進みます。結とちぃちゃんは
 
-* モーニング娘。’22 コンサートツアー ～Never Been Better!～ 森戸知沙希卒業スペシャル
+* **2020年12月9日** アンジュルム コンサート2020 〜起承転結〜 船木結卒業スペシャル
+* **2022年6月20日** モーニング娘。’22 コンサートツアー ～Never Been Better!～ 森戸知沙希卒業スペシャル
 
-にてモーニング娘。'22およびハロー！プロジェクトを卒業しました。この約一か月前の2022年5月31日に同じく武道館にて開かれました
+をもってハロー！プロジェクトを卒業しました。また、ちぃちゃん卒業の１か月前に開かれた
 
-* Juice=Juice CONCERT TOUR ～terzo～FINAL 稲場愛香卒業スペシャル
+* **2022年5月31日** Juice=Juice CONCERT TOUR ～terzo～FINAL 稲場愛香卒業スペシャル
 
-にてJuice=Juiceおよびハロー！プロジェクトを卒業します。
+をもってまなかんもハロー！プロジェクトを卒業しました。
 
-こうして現役のハロー！プロジェクトからはカントリーメンバーは全員卒業することになります。そして、小関舞ちゃんはカントリー・ガールズ活動休止後も芸能界
-には残り、舞台を中心に活動を続けていました。
+こうして現役のハロー！プロジェクトからはカントリーメンバーは全員卒業することになります。
 
 2022年はちぃちゃんとまなかんの卒業の年でもありますが、舞ちゃんが**M-line Club**に加入した年でもあります。ここから舞ちゃんの活動はM-lineを中心に活動が多くなります。そして、まなかんも同年に加入して舞ちゃんと同じ M-line Specialのステージに立つという夢まで実現しました。
 
 そして、、、なのです、、、
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-12-26_DVD) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2023-9-10)</big>
 
 ## 2023年 {#section-2023}
 ### 2023年9月10日 Hello! Project 25th ANNIVERSARY CONCERT（国立代々木競技場・第一体育館） {#section-2023-9-10}
@@ -1736,6 +1741,8 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 ハロプロはこういうエモいことがあるからね、、、楽しいのですよ、、、
 
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2019-12-26_LIVE) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2024-XX-XX)</big>
+
 ## 2024年 {#section-2024}
 
 ### 2024年XX月XX日 ... {#section-2024-XX-XX}
@@ -1748,4 +1755,4 @@ Foo! というコールがめちゃめちゃ楽しい！！
 
 そのときに、このカントリー・ヒストリーの続きが書けると思うともうすでにわくわくしています。。楽しみだ！！！
 
-[目次へ](#目次)
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2023-9-10) [<i class="fa-solid fa-square-caret-up"></i>](#目次) <i class="fa-solid fa-square-caret-right"></i>
