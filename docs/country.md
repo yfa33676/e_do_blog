@@ -135,7 +135,7 @@
 
 初披露です！ そうなのです、初披露はカウコンだったのです。初々しい。。。まなかんも額を出していて貴重！！
 
-<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2014-11-5) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-1-2_2-15)</big>
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2014-12-31) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-1-2_2-15)</big>
 
 ---
 
@@ -162,7 +162,7 @@
 
 「愛おしくってごめんね／恋泥棒」の両A面シングルでした。
 
-<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2014-12-31) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-3-25)</big>
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-1-2_2-15) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-3-25)</big>
 
 ### 2015年3月25日 1stシングル「愛おしくってごめんね／恋泥棒」発売！！ {#section-2015-3-25}
 
@@ -189,7 +189,7 @@
 
 が登場します！ もうね、、本当にお世話になっております。。。ありがとうございます。。。これ以降もたくさんダンスレッスンの映像がありますが、最後まで木下菜津子先生です！
 
-<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-1-2_2-15) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-5-2_3)</big>
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-3-25) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-5-2_3)</big>
 
 ### 2015年5月2日・3日 Juice=Juice 中野サンプラザ公演 オープニングアクト！ {#section-2015-5-2_3}
 
@@ -199,7 +199,7 @@ Juice=Juiceが**初のホールコンサート**を2015年5月2日・3日に中�
 
 Juiceはこの公演で2016年に**武道館公演**をするために全国のライブハウスを**220公演**するというあの伝説の「**220**<small>（ダブル・ツー・オー）</small>」というミッションを発表します。その場にカントリーがいたんですね。。いやあ、、すごい。。
 
-<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-3-25) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-5-16)</big>
+<big>[<i class="fa-solid fa-square-caret-left"></i>](#section-2015-5-2_3) [<i class="fa-solid fa-square-caret-up"></i>](#目次) [<i class="fa-solid fa-square-caret-right"></i>](#section-2015-5-16)</big>
 
 ### 2015年5月16日 Hello! Project New Fes！2015（渋谷公会堂） {#section-2015-5-16} 
 
