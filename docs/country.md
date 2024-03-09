@@ -1185,6 +1185,30 @@ Buono!のラストライブですね。こちらの映像にはカントリー�
 
 [目次へ](#目次)
 
+### 2018年6月1日～22日 ハロー！プロジェクト20周年企画：舞台で男役経験のあるメンバー座談会：須藤茉麻、小関舞、小片リサ {#section-2018-4-6_27}
+* [<i class="fa-lg fa-brands fa-youtube"></i> Vol.01](https://www.youtube.com/watch?v=3e86hpV-y6c&t=5m23s){:target="_blank"}
+  * 男役を演じている時期、ついついしてしまうこと
+  * 男役について、周りからアドバイスされたこと
+  * 舞台で味わった挫折感
+* [<i class="fa-lg fa-brands fa-youtube"></i> Vol.02](https://www.youtube.com/watch?v=atKZT7PULuc&t=6m11s){:target="_blank"}
+  * 男役の楽しさが分かった瞬間
+  * 男役の自分を「カッコいい！」と思う瞬間はある？
+  * 舞台にしかない空気・緊張感
+  * 最も思い出深いハロー！プロジェクトの楽曲
+* [<i class="fa-lg fa-brands fa-youtube"></i> Vol.03](https://www.youtube.com/watch?v=boOP8gMuW3w&t=4m26s){:target="_blank"}
+  * 男役の難しさを痛感した瞬間
+  * 男役を演じる時にこだわった仕草
+  * はじめての舞台のお仕事
+  * ハロー！プロジェクト コンサートの楽しみ
+* [<i class="fa-lg fa-brands fa-youtube"></i> Vol.04](https://www.youtube.com/watch?v=SblpSuPVbXc&t=3m45s){:target="_blank"}
+  * 自分の男役について、他のメンバーの感想
+  * 男役を演じることを、初めて聞いた時の心境
+  * 舞台の仕事をしたことで、身についたこと
+  * ハロー！プロジェクトあるある
+
+
+[目次へ](#目次)
+
 ### 2018年6月12日 カントリー・ガールズ DVD MAGAZINE Vol.12 発売 {#section-2018-6-12_DVD}
 * [<i class="fa-lg fa-brands fa-youtube"></i> CG VD〜S.C.N〜（新宿ReNY） CM ](https://www.youtube.com/watch?v=vjhn-zVWd5g){:target="_blank"}
   * オープニング（ランラルン～あなたに夢中～）
