@@ -302,7 +302,7 @@ Juiceはこの公演で2016年に**武道館公演**をするために全国の�
   * シャニムニ パラダイス
 * [<i class="fa-lg fa-brands fa-youtube"></i> リハーサル編（つばきファクトリー） ](https://www.youtube.com/watch?v=ZhLikb2PBvk&t=6m16s){:target="_blank"}
   * 夢見る15歳
-* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「シャイニング 愛しき貴方」(広島クラブクアトロ) ](https://www.youtube.com/watch?v=KhFlliQIYCY&t=14m4s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「シャイニング 愛しき貴方」(広島CLUB QUATTRO) ](https://www.youtube.com/watch?v=KhFlliQIYCY&t=14m4s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> カントリー・ガールズ「恋がステキな季節」(広島CLUB QUATTRO) ](https://www.youtube.com/watch?v=ADhzKk0u5Uw&t=11m16s){:target="_blank"}
 
 これもエモいですよね。。カントリーの初の**ライブツアー**です。映像作品としては販売はされていないですが、こちらの映像がYouTubeで配信されましたのでいくつか見ることができます。
