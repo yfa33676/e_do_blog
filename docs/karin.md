@@ -86,6 +86,8 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
   * 「ソリスト・ダンス」
   * 「落ちこぼれのガラクタだって」
 
+[<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
+
 ## 関連リンク
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
 * [M-line Music LIVE映像 M-line Special 2022～My Wish!～](./MSMW2022.md)
