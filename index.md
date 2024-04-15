@@ -38,7 +38,7 @@
 ### éclatant 
 * [2024年3月11日～13日 COTTON CLUB 公演 ～ 春のエクラタン ～](docs/20240415.md) <small>小片リサ、Bitter & Sweet、松永里愛／入江里咲（Support Dancer）</small>
 
-### Hello! Brand new me～RETURNS～
+### ～Hello! Brand new me～RETURNS
 * [2024年4月14日（日） 横浜 Bay Hall 公演](docs/20240315.md) <small>宮本佳林</small>
 
 ## バックナンバー
