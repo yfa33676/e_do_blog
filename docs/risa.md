@@ -164,6 +164,18 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
 
 [<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
 
+### RISA OGATA CONCERT「éclatant」<small>2024年3月公演 COTTON CLUB (東京)</small> {#eclatant202403}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記 （小片リサ・松永里愛・入江里咲）](https://www.youtube.com/watch?v=A2VQ-Saeo2Q&t=10m4s){:target="_blank"}
+  * 小片リサ・松永里愛・入江里咲「Dance Track」
+  * 松永里愛・入江里咲「Mon Amour」
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・田﨑あさひ・入江里咲「サクラ色の約束」](https://www.youtube.com/watch?v=A2VQ-Saeo2Q&t=3m16s){:target="_blank"}
+
+
+[<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
+
+
+
+
 ## 関連リンク
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
 * [M-line Music LIVE映像 M-line Special 2022～My Wish!～](./MSMW2022.md)
