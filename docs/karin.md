@@ -88,35 +88,23 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 
 [<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
 
+
+### 宮本佳林 LIVE 2024春～Hello! Brand new me～RETURNS {#HBNMR}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=10m49s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「アンフェアな事情」](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=10m49s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「未来のフィラメント」](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=2m57s){:target="_blank"}
+
+
+[<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
+
 ## 関連リンク
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
 * [M-line Music LIVE映像 M-line Special 2022～My Wish!～](./MSMW2022.md)
 * [M-line Music LIVE映像 M-line Special 2023～Magical Wish～](./MSMW2023.md)
 * [M-line Music LIVE映像 M-line Special 2024～Many well wishes～](./MSMW2024.md)
 * [Bitter & Sweet LIVE映像](./bittersweet.md)
-  * Bitter & Sweet Summer Live 2021
-  * Bitter & Sweet 8th Anniversary LIVE 2021
-  * Bitter & Sweet Winter Live 2022
-  * Bitter & Sweet Spring Live 2022
-  * Bitter & Sweet Summer Live 2022
-  * Bitter & Sweet Autumn Live 2022
-  * 田﨑あさひ ソロデビュー 10th Anniversary Bitter & Sweet Winter Live 2023
-  * Bitter & Sweet メジャーデビュー 6周年記念 LIVE 2023
-  * Bitter & Sweet わた雪TOUR 2023～凱旋するよ！～
-  * Bitter & Sweet Winter Live 2024～New Year～
 * [宮本佳林 LIVE映像](#title){:target="_self"} 👈
-  * アメジスト
-  * ダリア
-  * アマリリス
-  * 悪嬢転生
-  * ヒトリトイロ
-  * 悪嬢転生 リニューアル公演
-  * Hello! Brand new me
 * [小片リサ LIVE映像](./risa.md)
-  * bon voyage!
-  * Coeur à Coeur
-  * \- Mi RooM \-
-  * éclatant
 
 ## ＊
 
