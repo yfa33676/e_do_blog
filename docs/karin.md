@@ -12,6 +12,7 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 * [宮本佳林 LIVE 2023〜ヒトリトイロ〜](#ヒトリトイロ)
 * [STAGE VANGUARD「悪嬢転生」リニューアル公演](#悪嬢転生リニュアル)
 * [宮本佳林 LIVE 2023秋～Hello! Brand new me～](#HBNM)
+* [宮本佳林 LIVE 2024春～Hello! Brand new me～RETURNS](#HBNMR)
 
 ### 宮本佳林 LIVE 2021春～アマリリス～ {#アマリリス}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ライブ＆インタビュー](https://www.youtube.com/watch?v=un2l69sgD3Q&t=18m16s){:target="_blank"}
@@ -67,24 +68,6 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「バンビーナ・バンビーノ」](https://www.youtube.com/watch?v=6njGwroq86Q&t=3m38s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「Beautiful Song」](https://www.youtube.com/watch?v=doV8B5rZrLA&t=11m40s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> ダイジェスト映像<small>（2023年12月16日 広島LIVE VANQUISH）</small>](https://www.youtube.com/watch?v=dvdtHzcPWtk){:target="_blank"}
-  * 「バンビーナ・バンビーノ」
-  * 「カリーナノッテ」「最高視感度」「兎tocome」「リバース」「カリーナノッテ pralis mix」（コピンク メドレー）
-  * 「Beautiful Song」
-  * 「氷点下」
-  * 「天まで登れ」
-  * 「少女K」
-  * 「Lonely Bus」
-  * 「イイオンナごっこ」
-  * 「ズキュンLOVE」「ミニモニ。ジャンケンぴょん！」「ガタメキラ」「有頂天LOVE」（研修生メドレー）
-  * 「ロマンスの途中」「私が言う前に抱きしめなきゃね」「大人の事情」「愛のダイビング」「銀色のテレパシー」「プラトニック・プラネット」「Wonderful World」（Juice=Juiceメドレー）
-  * 「どうして僕らにはやる気がないのか」
-  * 「Happy Days」
-  * 「自分ファースト」
-  * 「なんてったって I Love You」
-  * 「私がオバさんになっても」
-  * 「パラレルハート」
-  * 「ソリスト・ダンス」
-  * 「落ちこぼれのガラクタだって」
 
 [<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
 
@@ -93,7 +76,7 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 * [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=10m49s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「アンフェアな事情」](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=10m49s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「未来のフィラメント」](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=2m57s){:target="_blank"}
-
+* [<i class="fa-lg fa-brands fa-youtube"></i> 宮本佳林「愛しあわなきゃもったいない！」](https://www.youtube.com/watch?v=hCA0kIZZNYA&t=2m30s){:target="_blank"}
 
 [<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
 
@@ -112,4 +95,4 @@ description : アマリリス ダリア アメジスト ヒトリトイロ Hello
 
 * [<i class="fa-lg fa-brands fa-youtube"></i> M-line Music](https://www.youtube.com/@mlinemusic)  
 
-で毎週金曜日19:00より配信される番組「M-line Music」からリンクを作成しました。g
+で毎週金曜日19:00より配信される番組「M-line Music」からリンクを作成しました。
