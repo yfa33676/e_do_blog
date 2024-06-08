@@ -170,6 +170,9 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
   * 松永里愛・入江里咲「Mon Amour」
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・田﨑あさひ・入江里咲「サクラ色の約束」](https://www.youtube.com/watch?v=A2VQ-Saeo2Q&t=3m16s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・長谷川萌美・松永里愛「女の子にしかわかんない丁度があるの」](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=13m55s){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「贈りものには愛がある」](https://www.youtube.com/watch?v=HiuMx6GS4VU&t=12m6s){:target="_blank"}
+
+
 
 [<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
 
