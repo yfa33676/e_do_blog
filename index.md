@@ -58,7 +58,8 @@
   * [1日目](docs/20240805.md)
   * [2日目](docs/20240806.md)
 
-## End roll #2
+### End roll #2
+
 * [2024年8月18日 小片リサ LIVE 2024 "End roll #2"](docs/20240818.md) <small>小片リサ</small>
 
 ## バックナンバー
