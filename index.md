@@ -32,6 +32,9 @@
 
 ## レポ<small>（現場の感想）</small>
 
+### M-line Special Autmun ～brand new～
+* [2024年9月7日 新宿ReNY 公演](docs/20240908.md) <small>竹内朱莉、佐藤優樹、小関舞</small>
+
 ### MSMW
  
 * [2024年5月26日 横浜 Bay Hall 公演](docs/20240526.md) <small>竹内朱莉、小片リサ、小関舞／夏焼雅（ゲスト）</small>
