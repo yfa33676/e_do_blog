@@ -20,6 +20,7 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
 * [RISA OGATA CONCERT 2023「Coeur à coeur」](#Coeur_Coeur202308) <small>2023年8月公演 第一ホテル両国「清澄」(東京)</small>
 * [RISA OGATA CONCERT「éclatant」](#eclatant202310) <small>2023年10月公演 COTTON CLUB (東京)</small>
 * [RISA OGATA CONCERT「éclatant」](#eclatant202312) <small>2023年12月公演 第一ホテル両国「清澄」(東京)</small>
+* [小片リサ LIVE 2024 “End roll #2”](#endroll2) <small>2024年8月4日 新宿ReNY(東京)</small>
 
 ### 小片リサ「bon voyage!」in COTTON CLUB <small>2022年1月公演</small> {#bonvoyage202201}
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・Bitter ＆ Sweet・米村姫良々・窪田七海「フラリ銀座」](https://www.youtube.com/watch?v=jB-G_ADFxhU&t=2m24s){:target="_blank"}
@@ -172,9 +173,17 @@ description : bon voyage! Coeur à Coeur - Mi RooM - éclatant
 * [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ・長谷川萌美・松永里愛「女の子にしかわかんない丁度があるの」](https://www.youtube.com/watch?v=VHLUIsEOy_M&t=13m55s){:target="_blank"}
 * [<i class="fa-lg fa-brands fa-youtube"></i> Bitter & Sweet「贈りものには愛がある」](https://www.youtube.com/watch?v=HiuMx6GS4VU&t=12m6s){:target="_blank"}
 
+[<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
 
+### 小片リサ LIVE 2024 “End roll #2” <small>2024年8月4日 新宿ReNY (東京)</small> {#endroll2}
+* [<i class="fa-lg fa-brands fa-youtube"></i> ツアー日記](https://www.youtube.com/watch?v=MFIcS3V3Hx4&t=1541){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「Umbrella」](https://www.youtube.com/watch?v=gDlGp_BDbWs&t=1284){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「Actress」](https://www.youtube.com/watch?v=ghKdoiBGYH4&t=1026){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「Air」](https://www.youtube.com/watch?v=yxERLK9mZcA&t=838){:target="_blank"}
+* [<i class="fa-lg fa-brands fa-youtube"></i> 小片リサ「幻」](https://www.youtube.com/watch?v=H5F48gLJmX8&t=1586){:target="_blank"}
 
 [<i class="fa-solid fa-square-caret-up"></i> 目次](#目次)
+
 
 ## 関連リンク
 * [M-line Music LIVE映像 M-line Special 2021～Make a Wish!～](./MSMW2021.md)
