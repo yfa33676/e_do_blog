@@ -32,8 +32,19 @@
 
 ## レポ<small>（現場の感想）</small>
 
-### M-line Special Autmun ～brand new～
-* [2024年9月7日 新宿ReNY 公演](docs/20240908.md) <small>竹内朱莉、佐藤優樹、小関舞</small>
+### TWiNKLE
+
+* [2024年12月29日 宮本佳林 LIVE 2024 ～TWiNKLE～](docs/20241229.md) <small>宮本佳林、バックダンサー：ハロプロ研修生（宮越千尋・西村乙輝・大坪茉乃・吉田光里）</small>
+
+### End roll #2
+
+* [2024年8月18日 小片リサ LIVE 2024 "End roll #2"](docs/20240818.md) <small>小片リサ</small>
+
+### バスツアー
+
+* 2024年8月3日（土）～4日（日） 森戸知沙希・小関舞 おぜちぃバスツアー ～ 遅れてやってきた修学旅行in群馬 ～
+  * [1日目](docs/20240805.md)
+  * [2日目](docs/20240806.md)
 
 ### MSMW
  
@@ -46,28 +57,14 @@
 * [2024年3月3日 滋賀U☆STONE 公演 ～ 優しい空間 ～](docs/20240305.md) <small>宮本佳林、小関舞、浅倉樹々</small>
 * [2024年2月17日 新宿ReNY / 2月18日 柏PALOOZA 公演 ～ Mi RooM が暴れてました👍 ～](docs/20240221.md) <small>小片リサ、稲場愛香、小関舞</small>
 
-### éclatant 
-* [2024年3月11日～13日 COTTON CLUB 公演 ～ 春のエクラタン ～](docs/20240315.md) <small>小片リサ、Bitter & Sweet、松永里愛／入江里咲（Support Dancer）</small>
-
 ### ～Hello! Brand new me～RETURNS
 * [2024年4月14日（日） 横浜 Bay Hall 公演](docs/20240415.md) <small>宮本佳林</small>
 
 ### リリースイベント
 * [2024年4月20日（土） プライムツリー赤池 プライムホール ミニライブ＆お話し会](docs/20240422.md) <small>稲場愛香、小関舞、宮本佳林、小片リサ</small>
 
-### バスツアー
-
-* 2024年8月3日（土）～4日（日） 森戸知沙希・小関舞 おぜちぃバスツアー ～ 遅れてやってきた修学旅行in群馬 ～
-  * [1日目](docs/20240805.md)
-  * [2日目](docs/20240806.md)
-
-### End roll #2
-
-* [2024年8月18日 小片リサ LIVE 2024 "End roll #2"](docs/20240818.md) <small>小片リサ</small>
-
-### TWiNKLE
-
-* [2024年12月29日 宮本佳林 LIVE 2024 ～TWiNKLE～](docs/20241229.md) <small>宮本佳林、バックダンサー：ハロプロ研修生（宮越千尋・西村乙輝・大坪茉乃・吉田光里）</small>
+### éclatant 
+* [2024年3月11日～13日 COTTON CLUB 公演 ～ 春のエクラタン ～](docs/20240315.md) <small>小片リサ、Bitter & Sweet、松永里愛／入江里咲（Support Dancer）</small>
 
 ## バックナンバー
 
